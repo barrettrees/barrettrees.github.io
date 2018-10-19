@@ -39,40 +39,52 @@
  - 2013 Recipient of a NASA Group Achievement Award for Controller Alertness and Fatigue Monitoring Study
 
 ## Professional Experience
-### Research Assistant, Human Factors 			 Moffett Field, CA 8/06-4/12  
+
+### Teaching Assistant (2013-2018)
+#### UC Santa Cruz
+ - Teaching support for courses in psychology, philosophy, and games and playable media.
+
+### Mentor (2015-2018)
+#### UC Santa Cruz SIP (Science Internship Program) 
+ - Provided mentorship and research experience for high school student interns
+ - Student work resulted in presentations and papers submitted for publication
+
+### Research Assistant, Human Factors (2006-2012) 
 #### NASA Ames Research Center / San Jose State University Research Foundation
  - Research Projects: Air Traffic Controller Fatigue and Alertness Management Study, Tower Simulation System Evaluation Report, Evaluation of Ambulatory Physiological Monitoring Device for First Responders, NASA Team Adaptation and Coordination Training Program, Distributed Team Decision Making / Training and Monitoring Space Teams for High Cohesion and Performance
  - Tasks: Assisted with all phases of research for a variety of NASA projects, primarily related to evaluating team performance, and to assessing the impact of fatigue, including extensive field work collecting physiological and cognitive data from participants at 32 air traffic control facilities across more than a dozen states.  Duties included the purchase, setup and handling of computers, as well as specialized equipment for physiological monitoring, cognitive measurement, and audio/visual recording, participant recruitment and training, ongoing communication with stakeholders, the collection, preparation and presentation of data, statistical analysis, and co-authoring of government reports and grant proposals.
 
-### Network Systems Consultant 				           Stanford CA 5/05-6/06
+### Network Systems Consultant  (2005-2006)
 #### Network Resource
 - Provided information technology support to Knight Ridder, Palo Alto Daily News, Price Design, and other Network Resource clients.   -  - Provided help desk support for several mixed client environments, conducted hardware upgrades, supervised scheduled backups, provided phone (PBX) systems support, and assisted with software deployment projects, including OS deployment.
 
-### Instructor 							     Burlingame CA 12/04-5/05
+### Instructor (2004-2005)
 #### Sylvan Learning Center
- - Tutored children (ages 6-13) in basic math through algebra, and taught SAT prep Math courses. 
+ - Tutored children (ages 6-13) in basic math through algebra.
+ - Taught SAT prep Math courses. 
 
-### Research Assistant, Psychophysiology 			         Palo Alto CA 9/03-8/04
+### Research Assistant, Psychophysiology (2003-2004)
 #### Stanford University Psychophysiology Lab
 - Research Projects: Emotion Regulation in Social Anxiety:  
 Cognitive and Biological Mechanisms of Therapeutic Change,
 Affective Chronometry, Autobiographical Memory and Social Anxiety, Emotional Suppression and Reappraisal   
 - Tasks: Assisted in an fMRI study of a mindfulness meditation treatment for social phobia.  Duties included literature review, phone screening, scoring questionnaires, creating web versions of existing questionnaires, photo and video editing, statistical analysis, programming tasks to be run in the fMRI machine, and writing for publication.
 
-### Founder 							     Santa Clara CA 1/03-12/03
+### Founder (2003)
 #### Padholsters
 - Designed and sold holsters for the Nintendo Gameboy SP portable videogame system, co-founded a company, acquired a seller’s license, and set up a web site ordering system.
 
-### Research Assistant, Electroencephalography 		       Santa Clara CA 9/02-6/03
+### Research Assistant, Electroencephalography (2002-2003)
 #### Santa Clara University Sleep Lab
  - Assisted in the creation of Santa Clara University’s first sleep lab.  Helped develop a protocol for preparing participants using the EEG (electroencephalograph) cap, and evaluated dream narratives for cognitive content.
 ## Volunteer Experience
-### Technology Docent   					       Burlingame CA 9/98-6/00
-#### Burlingame Public Library
- - Wrote technology protocols for library staff and taught patrons (primarily seniors) basic computer skills including use of web browsers. 
-### Statistics Consultant for UCSC CSASS (9/14-6/16)
+### Statistics Consultant for UCSC CSASS (2014-2016)
 #### UCSC Center for Statisticis in the Social Sciences
  - Provided statistics consulting and tutoring services to UCSC graduate and undergraduate students.
+### Technology Docent (1998-2000)
+#### Burlingame Public Library
+ - Wrote technology protocols for library staff and taught patrons (primarily seniors) basic computer skills including use of web browsers. 
+
 
 ### Teaching Experience
 #### Teaching Assistant: 
