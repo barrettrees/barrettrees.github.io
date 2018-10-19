@@ -1,7 +1,9 @@
 # BARRETT ANDERSON
 
 ## Education
-- Pursuing PhD in Computational Media, UC Santa Cruz, Santa Cruz, CA 	| Expected 2020
+
+Pursuing PhD in Computational Media, UC Santa Cruz, Santa Cruz, CA 	| Expected 2020
+
 - MS in Computational Media, UC Santa Cruz, Santa Cruz, CA			    | 2018
 - MA in Experimental Psychology, San Jose State University, San Jose, CA 	   | 2013
 - Bachelor of Science in Psychology, Santa Clara University, Santa Clara, CA	   | 2003
