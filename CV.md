@@ -40,8 +40,7 @@
  - 2013 Recipient of a NASA Group Achievement Award for Controller Alertness and Fatigue Monitoring Study
 
 ## Professional Experience
-### Research Assistant, Human Factors 			 Moffett Field, CA 8/06-4/12
-### NASA Ames Research Center / San Jose State University Research Foundation 
+### Research Assistant, Human Factors 			 Moffett Field, CA 8/06-4/12 <br/><br/> NASA Ames Research Center / San Jose State University Research Foundation 
 
 Research Projects: Air Traffic Controller Fatigue and Alertness Management Study, Tower Simulation System Evaluation Report, Evaluation of Ambulatory Physiological Monitoring Device for First Responders, NASA Team Adaptation and Coordination Training Program, Distributed Team Decision Making / Training and Monitoring Space Teams for High Cohesion and Performance
 
