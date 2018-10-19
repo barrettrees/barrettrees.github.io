@@ -32,31 +32,32 @@
  - **Anderson, B.**, Contreras, T., Morse, K., & Verley, J. (2003, April) Stereotypes as Source Monitoring Cues: A Second Look.  Poster presented at the Annual Western Psychology Conference for Undergraduate Research, Santa Clara, CA.
  - **Anderson, B.**, & Verley, J. (2003, March) Effects of a Church Environment and Strength of Religious Faith on Moral Reasoning. Poster presented at the Western Psychological Association Regional Conference, Vancouver, BC.
 
+## Posters
+
 ## Technical Reports
 
-## Professional Memberships
-- Student Member of the Cognitive Science Society
-- Associate Member of Sigma Xi, Scientific Research Society
-- Member of the Honor Society Phi Kappa Phi
+## Awards
+ - 2013 Recipient of a NASA Group Achievement Award for Controller Alertness and Fatigue Monitoring Study
 
-
-2013 Recipient of a NASA Group Achievement Award for Controller Alertness and Fatigue Monitoring Study
+## Professional Experience
+### Research Assistant, Human Factors 			 Moffett Field, CA 8/06-4/12
+### NASA Ames Research Center / San Jose State University Research Foundation 
 
 Research Projects: Air Traffic Controller Fatigue and Alertness Management Study, Tower Simulation System Evaluation Report, Evaluation of Ambulatory Physiological Monitoring Device for First Responders, NASA Team Adaptation and Coordination Training Program, Distributed Team Decision Making / Training and Monitoring Space Teams for High Cohesion and Performance
 
 Tasks: Assisted with all phases of research for a variety of NASA projects, primarily related to evaluating team performance, and to assessing the impact of fatigue, including extensive field work collecting physiological and cognitive data from participants at 32 air traffic control facilities across more than a dozen states.  Duties included the purchase, setup and handling of computers, as well as specialized equipment for physiological monitoring, cognitive measurement, and audio/visual recording, participant recruitment and training, ongoing communication with stakeholders, the collection, preparation and presentation of data, statistical analysis, and co-authoring of government reports and grant proposals.
 
-Network Systems Consultant 				           Stanford CA 5/05-6/06
-Network Resource
+### Network Systems Consultant 				           Stanford CA 5/05-6/06
+### Network Resource
 
 Provided information technology support to Knight Ridder, Palo Alto Daily News, Price Design, and other Network Resource clients.  Provided help desk support for several mixed client environments, conducted hardware upgrades, supervised scheduled backups, provided phone (PBX) systems support, and assisted with software deployment projects, including OS deployment.
 
-Instructor 							     Burlingame CA 12/04-5/05
+### Instructor 							     Burlingame CA 12/04-5/05
 Sylvan Learning Center
 
 Tutored children (ages 6-13) in basic math through algebra, and taught SAT prep Math courses. 
 
-Research Assistant, Psychophysiology 			         Palo Alto CA 9/03-8/04
+### Research Assistant, Psychophysiology 			         Palo Alto CA 9/03-8/04
 Stanford University Psychophysiology Lab
 
 Research Projects: Emotion Regulation in Social Anxiety:  
@@ -67,28 +68,24 @@ Affective Chronometry, Autobiographical Memory and Social Anxiety, Emotional Sup
 
 Tasks: Assisted in an fMRI study of a mindfulness meditation treatment for social phobia.  Duties included literature review, phone screening, scoring questionnaires, creating web versions of existing questionnaires, photo and video editing, statistical analysis, programming tasks to be run in the fMRI machine, and writing for publication.
 
-Founder 							     Santa Clara CA 1/03-12/03
+### Founder 							     Santa Clara CA 1/03-12/03
 Padholsters
 
 Designed and sold holsters for the Nintendo Gameboy SP portable videogame system, co-founded a company, acquired a seller’s license, and set up a web site ordering system.
 
-Research Assistant, Electroencephalography 		       Santa Clara CA 9/02-6/03
+### Research Assistant, Electroencephalography 		       Santa Clara CA 9/02-6/03
 Santa Clara University Sleep Lab
 
 Assisted in the creation of Santa Clara University’s first sleep lab.  Helped develop a protocol for preparing participants using the EEG (electroencephalograph) cap, and evaluated dream narratives for cognitive content.
 
-Technology Docent   					       Burlingame CA 9/98-6/00
+## Volunteer Experience
+### Technology Docent   					       Burlingame CA 9/98-6/00
 Burlingame Public Library
 
 Wrote technology protocols for library staff and taught patrons (primarily seniors) basic computer skills including use of web browsers. 
 
 Software
 E-Prime, Microsoft Office (Excel, Powerpoint, Word), Python, R, SPSS
-
-Presentations
-
-
-
 
 ### Teaching Experience
 #### Teaching Assistant: 
@@ -109,6 +106,8 @@ Presentations
 - Math and SAT Instructor for Sylvan Learning Center (12/04-5/05)
 - Technology Docent for Burlingame Public Library (9/98-6/00)
  
-### Professional Experience
-- Research Assistant, Human Factors 			 Moffett Field, CA 8/06-4/12
-- NASA Ames Research Center / San Jose State University Research Foundation 
+## Professional Memberships
+- Student Member of the Cognitive Science Society
+- Associate Member of Sigma Xi, Scientific Research Society
+- Member of the Honor Society Phi Kappa Phi
+
