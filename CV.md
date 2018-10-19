@@ -1,18 +1,18 @@
 ## BARRETT ANDERSON
 
 ### Education
-Pursuing PhD in Computational Media, UC Santa Cruz, Santa Cruz, CA 	Expected 2020
-MS in Computational Media, UC Santa Cruz, Santa Cruz, CA			    2018
-MA in Experimental Psychology, San Jose State University, San Jose, CA 	    2013
-Bachelor of Science in Psychology, Santa Clara University, Santa Clara, CA	    2003
-Bachelor of Arts in Philosophy, Santa Clara University, Santa Clara, CA		    2003
+- Pursuing PhD in Computational Media, UC Santa Cruz, Santa Cruz, CA 	Expected 2020
+- MS in Computational Media, UC Santa Cruz, Santa Cruz, CA			    2018
+- MA in Experimental Psychology, San Jose State University, San Jose, CA 	    2013
+- Bachelor of Science in Psychology, Santa Clara University, Santa Clara, CA	    2003
+- Bachelor of Arts in Philosophy, Santa Clara University, Santa Clara, CA		    2003
 
 ### Publications
-Anderson, B.R., & Smith, A.M. (under review). Understanding user needs in videogame moment retrieval.
-Davidenko, N., Cheong, Y., Waterman, A., Smith, J., Anderson, B., & Harmon, S. (2018). The influence of visual and vestibular orientation cues in a clock reading task. Consciousness and Cognition, 64, 196–206. 
-Anderson, B. R., & Feist, G. J. (2017). Transformative science: a new index and the impact of non-funding, private funding, and public funding. Social Epistemology, 31(2), 130-151.
-Goodman, S.G., Seymour, T.L., & Anderson, B.R. (2016). Achieving the performance benefits of hands-on experience when using digital devices: A representational approach. Computers in Human Behavior.
-Anderson, B., Goldin, P. R., Kurita, K., & Gross, J. J. (2008). Self-representation in social anxiety disorder: Linguistic analysis of autobiographical narratives. Behaviour Research and Therapy, 46, 1119–1125.
+**Anderson, B.R.**, & Smith, A.M. (under review). Understanding user needs in videogame moment retrieval.
+Davidenko, N., Cheong, Y., Waterman, A., Smith, J., **Anderson, B.**, & Harmon, S. (2018). The influence of visual and vestibular orientation cues in a clock reading task. Consciousness and Cognition, 64, 196–206. 
+**Anderson, B. R.**, & Feist, G. J. (2017). Transformative science: a new index and the impact of non-funding, private funding, and public funding. Social Epistemology, 31(2), 130-151.
+Goodman, S.G., Seymour, T.L., & **Anderson, B.R.** (2016). Achieving the performance benefits of hands-on experience when using digital devices: A representational approach. Computers in Human Behavior.
+**Anderson, B.**, Goldin, P. R., Kurita, K., & Gross, J. J. (2008). Self-representation in social anxiety disorder: Linguistic analysis of autobiographical narratives. Behaviour Research and Therapy, 46, 1119–1125.
 
 ### Teaching Experience
 #### Teaching Assistant: 
