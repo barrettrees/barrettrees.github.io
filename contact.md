@@ -1,2 +1,3 @@
-# Reach out to me through email or social media.
-# More coming soon.
+[Main](index.html) | [CV](CV.html) | [Contact](contact.html) | [Projects](projects.html) | [Bio](bio.html)
+# Contact Me
+
