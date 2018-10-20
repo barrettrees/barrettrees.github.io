@@ -90,7 +90,7 @@ Affective Chronometry, Autobiographical Memory and Social Anxiety, Emotional Sup
 - Introduction to Psychology (Summer 2015)
 - Idols of Thought - Reasoning and Cognitive Biases (Spring 2015)
 - Psychology and Law (Winter 2014)
-- Psychology of Language (Fall 2013, Fall 2014) 
+- Psychology of Language (Fall 2013, Fall 2014)
 #### Tutoring:
 - Mentor for SIP (Science Internship Program) High School Interns (Summers 2015-18) 
 - Statistics Consultant for UCSC CSASS (9/14-6/16)
