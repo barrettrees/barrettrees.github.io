@@ -39,27 +39,35 @@
  - 2013 Recipient of a NASA Group Achievement Award for Controller Alertness and Fatigue Monitoring Study
 
 ## Professional Experience
+
 ### Teaching Assistant, UC Santa Cruz (2013-2018)
  - Teaching support for courses in psychology, philosophy, and games and playable media.
+
 ### Mentor, UC Santa Cruz Science Internship Program (2015-2018) 
  - Provided mentorship and research experience for high school student interns
  - Student work resulted in presentations and papers submitted for publication
+
 ### Human Factors Research Assistant, NASA Ames Research Center (2006-2012)
  - Air Traffic Controller Fatigue and Alertness Management Study
  - Tower Simulation System Evaluation Report
  - Evaluation of Ambulatory Physiological Monitoring Device for First Responders
  - NASA Team Adaptation and Coordination Training Program, Distributed Team Decision Making 
  - Training and Monitoring Space Teams for High Cohesion and Performance
+
 ### Network Systems Consultant, Network Resource  (2005-2006)
 - Provided IT support for Knight Ridder, Palo Alto Daily News, Price Design
+
 ### Instructor, Sylvan Learning Center (2004-2005)
  - Tutored children (ages 6-13) in basic math through algebra.
  - Taught SAT prep Math courses. 
+
 ### Psychophysiology Research Assistant, Stanford University (2003-2004)
 - Emotion Regulation in Social Anxiety: Cognitive and Biological Mechanisms of Therapeutic Change
 - Affective Chronometry, Autobiographical Memory and Social Anxiety, Emotional Suppression and Reappraisal   
+
 ### Founder, Padholsters (2003)
 - Designed and sold holsters for the Nintendo Gameboy SP portable videogame system.
+
 ### Electroencephalography Research Assistant, Santa Clara University Sleep Lab (2002-2003)
  - Assisted in the creation of Santa Clara University’s first sleep lab.  
  - Helped develop a protocol for preparing participants using the EEG (electroencephalograph) cap
