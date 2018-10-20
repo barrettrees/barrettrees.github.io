@@ -9,10 +9,10 @@
 
 ## Publications
 - **Anderson, B.R.**, & Smith, A.M. (under review). Understanding user needs in videogame moment retrieval.
-- Davidenko, N., Cheong, Y., Waterman, A., Smith, J., **Anderson, B.**, & Harmon, S. (2018). The influence of visual and vestibular orientation cues in a clock reading task. *Consciousness and Cognition, 64*, 196–206. 
-- **Anderson, B. R.**, & Feist, G. J. (2017). Transformative science: a new index and the impact of non-funding, private funding, and public funding. *Social Epistemology, 31(2)*, 130-151.
-- [Goodman, S.G., Seymour, T.L., & **Anderson, B.R.** (2016). Achieving the performance benefits of hands-on experience when using digital devices: A representational approach. *Computers in Human Behavior, 59,* 58-66.](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/9/365/files/2016/05/GoodmanSeymourAnderson2016.pdf)
-- **Anderson, B.**, Goldin, P. R., Kurita, K., & Gross, J. J. (2008). Self-representation in social anxiety disorder: Linguistic analysis of autobiographical narratives. *Behaviour Research and Therapy, 46,* 1119–1125.
+- Davidenko, N., Cheong, Y., Waterman, A., Smith, J., **Anderson, B.**, & Harmon, S. (2018). [The influence of visual and vestibular orientation cues in a clock reading task.](https://www.sciencedirect.com/science/article/pii/S1053810018300448) *Consciousness and Cognition, 64*, 196–206.
+- **Anderson, B. R.**, & Feist, G. J. (2017). [Transformative science: a new index and the impact of non-funding, private funding, and public funding.](https://www.tandfonline.com/doi/abs/10.1080/02691728.2016.1241321) *Social Epistemology, 31(2)*, 130-151.
+- Goodman, S.G., Seymour, T.L., & **Anderson, B.R.** (2016). [Achieving the performance benefits of hands-on experience when using digital devices: A representational approach.](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/9/365/files/2016/05/GoodmanSeymourAnderson2016.pdf) *Computers in Human Behavior, 59,* 58-66.
+- **Anderson, B.**, Goldin, P. R., Kurita, K., & Gross, J. J. (2008). [Self-representation in social anxiety disorder: Linguistic analysis of autobiographical narratives.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2630512/) *Behaviour Research and Therapy, 46,* 1119–1125.
 
 ## Presentations
  - Starr, C. R., **Anderson, B.R.**, Walsh, A., & Leaper, C. (2017). “STEM just isn’t for me”: STEM stereotypes, identity, and motivation among a sample of Latina, European, and Asian American undergraduate women. Paper to be presented at the Society for the Study of Emerging Adulthood, Washington D.C
@@ -66,8 +66,10 @@
  - Evaluated dream narratives for cognitive content.
 
 ## Volunteer Experience
+
 ### Statistics Consultant, UC Santa Cruz Center for Statisticis in the Social Sciences (2014-2016)
  - Provided statistics consulting and tutoring services to UCSC graduate and undergraduate students.
+
 ### Technology Docent, Burligame Public Library (1998-2000)
 - Wrote technology protocols for library staff and taught patrons (primarily seniors) basic computer skills including use of web browsers. 
 
