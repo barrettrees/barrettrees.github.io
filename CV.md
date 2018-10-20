@@ -1,4 +1,4 @@
-[CV](CV.html) | [Contact](contact.html) | [Projects](projects.html)
+[Main](index.html) | [CV](CV.html) | [Contact](contact.html) | [Projects](projects.html) | [Bio](bio.html)
 # Curriculum Vitae
 ## Education
 - Pursuing PhD in Computational Media, UC Santa Cruz	| Expected 2020
