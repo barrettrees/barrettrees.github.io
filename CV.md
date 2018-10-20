@@ -1,5 +1,4 @@
-# BARRETT ANDERSON
-
+# Curriculum Vitae
 ## Education
 Pursuing PhD in Computational Media, UC Santa Cruz, Santa Cruz, CA 	| Expected 2020
 
