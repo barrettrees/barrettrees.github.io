@@ -1,11 +1,6 @@
-[Main](index.html) | [CV](CV.html) | [Contact](contact.html) | [Projects](projects.html) | [Bio](bio.html)
+[Projects](index.html) | [About Me](bio.html) | [CV](CV.html) | [Contact](contact.html)
 
-Test text. 
 
-<div style="float: right">
-    ![Caricature of Barrett](basketch.png)
-</div>
 
-![Caricature of Barrett](basketch.png)
 
 
