@@ -3,6 +3,6 @@
 
 Hi! I'm a graduate student in [Adam Smith's Design Research Lab](https://adamsmith.as/). 
 
-![Caricature of Barrett](basketch.png)
+![Caricature of Barrett](basketch_small.png)
 
 
