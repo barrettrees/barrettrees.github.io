@@ -10,4 +10,5 @@ A game designed to convey a simplified model of the relationship between crime a
 
 ## K Street 
 *Designed w/ Dylan Lederle-Ensign*
+
 A deck-building card game about political lobbying. Senators and scandals instead of orcs and spells. Includes a bluffing mechanic! Educational and ~~upsetting~~ fun!
