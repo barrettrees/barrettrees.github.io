@@ -2,7 +2,7 @@
 # Curriculum Vitae
 ## Education
 - Pursuing PhD in Computational Media, UC Santa Cruz	| Expected 2020
-- MS in Computational Media, UC Santa Cruz	    | 2018
+- MS in Computational Media, UC Santa Cruz	    | Expected 2018
 - MA in Experimental Psychology, San Jose State University	   | 2013
 - Bachelor of Science in Psychology, Santa Clara University   | 2003
 - Bachelor of Arts in Philosophy, Santa Clara University	   | 2003
