@@ -3,5 +3,10 @@
 
 Hi! I'm a graduate student in [Adam Smith's Design Research Lab](https://adamsmith.as/). 
 
-![Caricature of Barrett](basketch.png)
+
+<div style="float: right">
+    ![Caricature of Barrett](basketch.png)
+</div>
+
+
 
