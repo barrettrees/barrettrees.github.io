@@ -3,7 +3,7 @@
 # Projects
 
 ## Search by Analogy for Videogame Moments
-<img align="left" src="analogy.png">
+<img align="left" src="Analogy.png">
 A new way of searching for moments in a game, based on their relationships to other moments. This is an explainer for the underlying concept, which has applications in other domains.
 
 ## Crime Metaphor Game
