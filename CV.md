@@ -1,4 +1,5 @@
 [Projects](index.html) | [About Me](bio.html) | [Contact](contact.html) | [CV](CV.html) 
+
 # Curriculum Vitae
 ## Education
 - Pursuing PhD in Computational Media, UC Santa Cruz	| Expected 2020
