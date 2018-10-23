@@ -18,10 +18,9 @@
 ## Presentations
  - Starr, C. R., **Anderson, B.R.**, Walsh, A., & Leaper, C. (2017). “STEM just isn’t for me”: STEM stereotypes, identity, and motivation among a sample of Latina, European, and Asian American undergraduate women. Paper to be presented at the Society for the Study of Emerging Adulthood, Washington D.C
  - Starr, C. R., **Anderson, B.R.**, & Walsh, A. (2017). Playing video games vs. tweeting friends: The contribution of 4 different types of media on STEM motivation among emerging adults. Poster presented at the annual conference of the Jean Piaget Society. San Francisco, CA.
- - Orasanu, J., Welch, R. B., Kraft, N., Cowings, P., Toscano, W., McDonnell, L., Derochers, C.,**Anderson, B.**, Miller, R. C., Marshall, S., Davis, C., Weatherhead, J. (2008, Feb). Self-test tools for assessing astronaut readiness to perform.  Annual Investigators’ Meeting of the NASA Human Research Program, League City, TX. (Partial data presented by S. Marshall at the SHFE Eye Movement Workshop, NASA Ames, April 24-25, 2008.
 
 ## Posters
- - Goodman, S., Seymour, T.L., & **Anderson, B.** (2015, July). Physical manipulatives provide spatial and arithmetic performance advantages in canonical education activities.  Poster session presented at the annual meeting of the Cognitive Science Society, Pasadena, CA.
+ - Goodman, S., Seymour, T.L., & **Anderson, B.** (2015, July). Physical manipulatives provide spatial and arithmetic performance advantages in canonical education activities.  Presented at 2015 Cognitive Science Society Annual Meeting, Pasadena, CA. July 24, 2015.
  - Van Selst, M., Seropian, G., Prendez, J., **Anderson, B.**, & Kraft, N. (2011).  Dose-Dependent Cognitive Effects of Alcohol (II).  Poster Presented at the 91st Annual Convention of the Western Psychological Association, Los Angeles, CA.
  - Van Selst, M., Prendez, J., Seropian, G., **Anderson, B.**, & Kraft, N. (2010).  Dose-Dependent Effects of Alcohol.  Poster Presented at the 90th Annual Convention of the Western Psychological Association, Cancun, Mexico. - 
  - Orasanu, J., Fischer, U., Parke, B., Kraft, N., McDonnell, L., **Anderson, B.**, & Miller, R. C.  (2009, May). Communication and group diagramming methods reflect team cohesion and performance. Poster session presented at the annual meeting of the Association for Psychological Science, San Francisco, CA.
@@ -35,6 +34,7 @@
  - Kraft, N.O., Orasanu, J., Ormeno G.R., McDonnell, L.K., and **Anderson B.**  (2009, May). Schedule- induced alertness decrements in flight crews. Paper presented at the International Congress of Aerospace Medical Association, Los Angeles, CA, USA.
  - Orasanu, J., Fischer, U., Parke, B., McDonnell, L., Kraft, N., & **Anderson, B.** (2008, September).  Alternative Techniques for Monitoring and Evaluating Team Cohesion. Report submitted to the Behavioral Health and Performance (BHP) Element of the Human Research Program (HRP), NASA, Johnson Space Center, Houston, Texas.
  - Parke, B., Orasanu, J., **Anderson, B.**, & McDonnell, L. (2008, September).  Tools for assessing team cohesion.  Paper presented in panel at the 52nd Annual Meeting of the Human Factors and Ergonomics Society, New York, NY.
+ - Orasanu, J., Welch, R. B., Kraft, N., Cowings, P., Toscano, W., McDonnell, L., Derochers, C.,**Anderson, B.**, Miller, R. C., Marshall, S., Davis, C., Weatherhead, J. (2008, Feb). Self-test tools for assessing astronaut readiness to perform.  Annual Investigators’ Meeting of the NASA Human Research Program, League City, TX. (Partial data presented by S. Marshall at the SHFE Eye Movement Workshop, NASA Ames, April 24-25, 2008.
 
 ## Awards
  - 2013 Recipient of a NASA Group Achievement Award for Controller Alertness and Fatigue Monitoring Study
