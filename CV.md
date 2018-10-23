@@ -42,45 +42,45 @@
 
 ## Professional Experience
 
-### Teaching Assistant, UC Santa Cruz (2013-2018)
+#### Teaching Assistant, UC Santa Cruz (2013-2018)
  - Teaching support for courses in psychology, philosophy, and games and playable media.
 
-### Mentor, UC Santa Cruz Science Internship Program (2015-2018) 
+#### Mentor, UC Santa Cruz Science Internship Program (2015-2018) 
  - Provided mentorship and research experience for high school student interns
  - Student work resulted in presentations and papers submitted for publication
 
-### Human Factors Research Assistant, NASA Ames Research Center (2006-2012)
+#### Human Factors Research Assistant, NASA Ames Research Center (2006-2012)
  - Air Traffic Controller Fatigue and Alertness Management Study
  - Tower Simulation System Evaluation Report
  - Evaluation of Ambulatory Physiological Monitoring Device for First Responders
  - NASA Team Adaptation and Coordination Training Program, Distributed Team Decision Making 
  - Training and Monitoring Space Teams for High Cohesion and Performance
 
-### Network Systems Consultant, Network Resource  (2005-2006)
+#### Network Systems Consultant, Network Resource  (2005-2006)
 - Provided IT support for Knight Ridder, Palo Alto Daily News, Price Design
 
-### Instructor, Sylvan Learning Center (2004-2005)
+#### Instructor, Sylvan Learning Center (2004-2005)
  - Tutored children (ages 6-13) in basic math through algebra.
  - Taught SAT prep Math courses. 
 
-### Psychophysiology Research Assistant, Stanford University (2003-2004)
+#### Psychophysiology Research Assistant, Stanford University (2003-2004)
 - Emotion Regulation in Social Anxiety: Cognitive and Biological Mechanisms of Therapeutic Change
 - Affective Chronometry, Autobiographical Memory and Social Anxiety, Emotional Suppression and Reappraisal   
 
-### Founder, Padholsters (2003)
+#### Founder, Padholsters (2003)
 - Designed and sold holsters for the Nintendo Gameboy SP portable videogame system.
 
-### Electroencephalography Research Assistant, Santa Clara University Sleep Lab (2002-2003)
+#### Electroencephalography Research Assistant, Santa Clara University Sleep Lab (2002-2003)
  - Assisted in the creation of Santa Clara University’s first sleep lab.  
  - Helped develop a protocol for preparing participants using the EEG (electroencephalograph) cap
  - Evaluated dream narratives for cognitive content.
 
 ## Volunteer Experience
 
-### Statistics Consultant, UC Santa Cruz Center for Statisticis in the Social Sciences (2014-2016)
+#### Statistics Consultant, UC Santa Cruz Center for Statisticis in the Social Sciences (2014-2016)
  - Provided statistics consulting and tutoring services to UCSC graduate and undergraduate students.
 
-### Technology Docent, Burligame Public Library (1998-2000)
+#### Technology Docent, Burligame Public Library (1998-2000)
 - Wrote technology protocols for library staff and taught patrons (primarily seniors) basic computer skills including use of web browsers. 
 
 ### Teaching Experience
