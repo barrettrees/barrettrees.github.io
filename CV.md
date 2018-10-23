@@ -83,7 +83,7 @@
 #### Technology Docent, Burligame Public Library (1998-2000)
 - Wrote technology protocols for library staff and taught patrons (primarily seniors) basic computer skills including use of web browsers. 
 
-### Teaching Experience
+## Teaching Experience
 
 #### Teaching Assistant: 
 - Abnormal Psychology (Winter 2018, Spring 2018)
