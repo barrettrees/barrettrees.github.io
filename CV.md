@@ -20,10 +20,11 @@
  - Starr, C. R., **Anderson, B.R.**, & Walsh, A. (2017). Playing video games vs. tweeting friends: The contribution of 4 different types of media on STEM motivation among emerging adults. Poster presented at the annual conference of the Jean Piaget Society. San Francisco, CA.
 
 ## Posters
- - Goodman, S., Seymour, T.L., & **Anderson, B.** (2015, July). Physical manipulatives provide spatial and arithmetic performance advantages in canonical education activities.  Presented at 2015 Cognitive Science Society Annual Meeting, Pasadena, CA. July 24, 2015.
+ - Goodman, S., Seymour, T.L., & **Anderson, B.** (2015). Physical manipulatives provide spatial and arithmetic performance advantages in canonical education activities.  Presented at 2015 Cognitive Science Society Annual Meeting, Pasadena, CA. July 24, 2015.
  - Van Selst, M., Seropian, G., Prendez, J., **Anderson, B.**, & Kraft, N. (2011).  Dose-Dependent Cognitive Effects of Alcohol (II).  Poster Presented at the 91st Annual Convention of the Western Psychological Association, Los Angeles, CA.
  - Van Selst, M., Prendez, J., Seropian, G., **Anderson, B.**, & Kraft, N. (2010).  Dose-Dependent Effects of Alcohol.  Poster Presented at the 90th Annual Convention of the Western Psychological Association, Cancun, Mexico. - 
  - Orasanu, J., Fischer, U., Parke, B., Kraft, N., McDonnell, L., **Anderson, B.**, & Miller, R. C.  (2009, May). Communication and group diagramming methods reflect team cohesion and performance. Poster session presented at the annual meeting of the Association for Psychological Science, San Francisco, CA.
+ - **Anderson, B.**, Kurita, K., Goldin, P. (2007). Autobiographical Memory in Social Anxiety Disorder. Poster presented at the 27th Annual meeting of the the Anxiety Disorders Association of America, St.Louis, MO.
  - **Anderson, B.**, Contreras, T., Morse, K., & Verley, J. (2003, April) Stereotypes as Source Monitoring Cues: A Second Look.  Poster presented at the Annual Western Psychology Conference for Undergraduate Research, Santa Clara, CA.
  - **Anderson, B.**, & Verley, J. (2003, March) Effects of a Church Environment and Strength of Religious Faith on Moral Reasoning. Poster presented at the Western Psychological Association Regional Conference, Vancouver, BC.
 
