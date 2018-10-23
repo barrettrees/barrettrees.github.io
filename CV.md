@@ -109,9 +109,3 @@
 - Associate Member of Sigma Xi, Scientific Research Society
 - Member of the Honor Society Phi Kappa Phi
 
-## Software
-- E-Prime
-- Microsoft Office (Excel, Powerpoint, Word)
-- Python
-- R
-- SPSS
