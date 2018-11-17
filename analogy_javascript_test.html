@@ -28,7 +28,7 @@
 				  padding: 10px;
 				  text-align: center;
 				  font-size: 2em;
-				  color: #ffeead;
+				  color: #000000;
 				}
 
 			.container2> div {
@@ -47,7 +47,8 @@
 				  display: flex;
 				}
 		.container2 > div:nth-child(1) {
-			  background-color: #FFA500;
+/*			  background-color: #FFA500;
+*/			  background-color: #fb9a99;
 			  width: 5%;
 			}
 			html, body {
@@ -56,22 +57,22 @@
 			}
 
 			.container > div:nth-child(1) {
-			  background-color: #101010;
+			  background-color: #a6cee3;
 			  width: 25%;
 			}
 
 			.container > div:nth-child(2) {
-			  background-color: #008000;
+			  background-color: #1f78b4;
 			  width: 25%;
 			}
 
 			.container > div:nth-child(3) {
-			  background-color: #0000FF;
+			  background-color: #b2df8a;
 			  width: 25%;
 			}
 
 			.container > div:nth-child(4) {
-			  background-color: #FF0000;
+			  background-color: #33a02c;
 			  width: 25%;
 			}
 
@@ -98,15 +99,7 @@
 			  stroke: steelblue;
 			}
 
-			.bigSlider {
-/*			    position: absolute;
-			    left: 0;
-			    top: 0;
-			    right: 0;
-			    bottom: 50px; /* height of thumbs (if not required set to 0) */*/
-/*			    height: auto;  optionally add !important for WP version so it overrides default value */
-/*			    width: 50px;*/
-			}
+
 
 		div.gallery {
 		    border: 1px solid #ccc;
@@ -155,8 +148,9 @@
 		    clear: both;
 		}
 		.vranger {
+/*		 width: 300%;*/
 		  margin-top: 50px;
-		   transform: translate(-40%,50%) rotate(270deg);
+		  transform: translate(-40%,50%) rotate(270deg);
 		  -moz-transform: rotate(270deg); /*do same for other browsers if required*/
 
 		}
@@ -165,6 +159,10 @@
 
 		font-family: Arial, Helvetica, sans-serif;
 
+		}
+
+		.pointRangeSlider{
+			width: 80%;
 		}
 	</style>
 </head>
@@ -216,24 +214,24 @@
 	<button id="searchButton">Search</button>
 
 	<nav class="container">
-		<div class="desc" id = "labelA"> <font face="Helvetica">A</font>
-			<input type="range" min="1" max="2367" value="301" class="slider" id="myRangeA">
+		<div class="desc" id = "labelA"> <font face="Helvetica" width = "10%">A</font>
+			<input class="pointRangeSlider" type="range" min="1" max="2367" value="301" class="slider" id="myRangeA">
 		</div>
-		<div> <font face="Helvetica">B</font>
-			<input type="range" min="1" max="2367" value="1858" class="slider" id="myRangeB">
+		<div class="desc" id = "labelB"> <font face="Helvetica" width = "10%">B</font>
+			<input class="pointRangeSlider"  type="range" min="1" max="2367" value="1858" class="slider" id="myRangeB">
 		</div>
-		<div> <font face="Helvetica">C</font>
-			<input type="range" min="1" max="2367" value="1020" class="slider" id="myRangeC">
+		<div class="desc" id = "labelC"> <font face="Helvetica" width = "10%">C</font>
+			<input class="pointRangeSlider"  type="range" min="1" max="2367" value="1858" class="slider" id="myRangeC">
 		</div>
-		<div> <font face="Helvetica">D</font>
-			<input type="range" min="1" max="2367" value="2170" class="slider" id="myRangeD">
+		<div class="desc" id = "labelD"> <font face="Helvetica" width = "10%">D</font>
+			<input class="pointRangeSlider"  type="range" min="1" max="2367" value="2170" class="slider" id="myRangeD">
 		</div>
 	</nav>
 
 
 	<nav2 class="container2">
-		<div> <font face="Helvetica" color = "black">K=</font> <font id="kValue" face="Helvetica" color="black">N</font>
-			<input type="range" class="vranger"  min="-10" max="10" value="1.0" placeholder = "0.0" step = .1 class="bigSlider" id="myRangeK">
+		<div> <font face="Helvetica" color = "black" size= "4vw">K=</font> <font id="kValue" face="Helvetica" color="black" size= "4vw">N</font>
+			<input  type="range" class="vranger"  min="-10" max="10" value="1.0" placeholder = "0.0" step = .1 class="bigSlider" id="myRangeK">
 		</div>
 	</nav2>
 
@@ -532,13 +530,13 @@
 			    .attr("d", line); // 11. Calls the line generator 
 
 			svg.append("line")         
-			    .style("stroke", "black")  
+			    .style("stroke", "a6cee3")  
 			    .attr("x1", xScale(myRangeA.value))    
 			    .attr("y1", yScale(1))    
 			    .attr("x2", xScale(myRangeA.value))    
 			    .attr("y1", yScale(-1)) ;   
 			svg.append("circle")
-				.style("fill","black")
+				.style("fill","a6cee3")
 				.attr("cx",xScale(myRangeA.value))
 				.attr("cy",(yScale(dataset[myRangeA.value]['y'])))
 				.attr("r",5);
@@ -548,16 +546,16 @@
                 .text( "A")
                 .attr("font-family", "sans-serif")
                 .attr("font-size", "20px")
-              	.attr("fill", "black");
+              	.attr("fill", "a6cee3");
 
 			svg.append("line")         
-			    .style("stroke", "green")  
+			    .style("stroke", "1f78b4")  
 			    .attr("x1", xScale(myRangeB.value))    
 			    .attr("y1", yScale(1))    
 			    .attr("x2", xScale(myRangeB.value))    
 			    .attr("y1", yScale(-1)) ;  
 			svg.append("circle")
-				.style("fill","green")
+				.style("fill","1f78b4")
 				.attr("cx",xScale(myRangeB.value))
 				.attr("cy",(yScale(dataset[myRangeB.value]['y'])))
 				.attr("r",5);
@@ -567,16 +565,16 @@
                 .text( "B")
                 .attr("font-family", "sans-serif")
                 .attr("font-size", "20px")
-              	.attr("fill", "green");
+              	.attr("fill", "1f78b4");
 
 			svg.append("line")         
-			    .style("stroke", "blue")  
+			    .style("stroke", "b2df8a")  
 			    .attr("x1", xScale(myRangeC.value))    
 			    .attr("y1", yScale(1))    
 			    .attr("x2", xScale(myRangeC.value))    
 			    .attr("y1", yScale(-1)) ;  
 			svg.append("circle")
-				.style("fill","blue")
+				.style("fill","b2df8a")
 				.attr("cx",xScale(myRangeC.value))
 				.attr("cy",yScale((dataset[myRangeC.value]['y'])))
 				.attr("r",5);
@@ -586,16 +584,16 @@
                 .text( "C")
                 .attr("font-family", "sans-serif")
                 .attr("font-size", "20px")
-              	.attr("fill", "blue");
+              	.attr("fill", "b2df8a");
 
 			svg.append("line")         
-			    .style("stroke", "red")  
+			    .style("stroke", "33a02c")  
 			    .attr("x1", xScale(myRangeD.value))    
 			    .attr("y1", yScale(1))    
 			    .attr("x2", xScale(myRangeD.value))    
 			    .attr("y1", yScale(-1)) ;  
 			svg.append("circle")
-				.style("fill","red")
+				.style("fill","33a02c")
 				.attr("cx",xScale(myRangeD.value))
 				.attr("cy",yScale((dataset[myRangeD.value]['y'])))
 				.attr("r",5);
@@ -605,7 +603,7 @@
                 .text( "D")
                 .attr("font-family", "sans-serif")
                 .attr("font-size", "20px")
-              	.attr("fill", "red");
+              	.attr("fill", "33a02c");
 
               	return svg;
 		}
