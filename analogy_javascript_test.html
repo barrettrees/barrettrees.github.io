@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Analogy Test</title>
+    <style>
+		body {
+			    background-color: #0080ff;
+			}
+
+			h1 {
+			    color: #000;
+			    font-family: Arial, Helvetica, sans-serif;
+			}
+
+			.container {
+				width: 100%;
+				}
+
+			.container {
+				  border: 5px solid #ffcc5c;
+				  display: flex;
+				}
+
+			.container > div {
+				  padding: 10px;
+				  text-align: center;
+				  font-size: 2em;
+				  color: #ffeead;
+				}
+
+			.container2> div {
+				  padding: 10px;
+				  text-align: center;
+				  font-size: 2em;
+				  color: #ffeead;
+				}
+
+			.container2 {
+				width: 100%;
+				}
+
+			.container2 {
+				  border: 1px solid #ffcc5c;
+				  display: flex;
+				}
+		.container2 > div:nth-child(1) {
+			  background-color: #FFA500;
+			  width: 5%;
+			}
+			html, body {
+			  background-color: #ffeead;
+			  margin: 10px;
+			}
+
+			.container > div:nth-child(1) {
+			  background-color: #101010;
+			  width: 25%;
+			}
+
+			.container > div:nth-child(2) {
+			  background-color: #008000;
+			  width: 25%;
+			}
+
+			.container > div:nth-child(3) {
+			  background-color: #0000FF;
+			  width: 25%;
+			}
+
+			.container > div:nth-child(4) {
+			  background-color: #FF0000;
+			  width: 25%;
+			}
+
+			/* Style the lines by removing the fill and applying a stroke */
+			.line {
+			    fill: none;
+			    stroke: #ffab00;
+			    stroke-width: 3;
+			}
+			  
+			.overlay {
+			  fill: none;
+			  pointer-events: all;
+			}
+
+			/* Style the dots by assigning a fill and stroke */
+			.dot {
+			    fill: #ffab00;
+			    stroke: #fff;
+			}
+			  
+			  .focus circle {
+			  fill: none;
+			  stroke: steelblue;
+			}
+
+			.bigSlider {
+/*			    position: absolute;
+			    left: 0;
+			    top: 0;
+			    right: 0;
+			    bottom: 50px; /* height of thumbs (if not required set to 0) */*/
+/*			    height: auto;  optionally add !important for WP version so it overrides default value */
+/*			    width: 50px;*/
+			}
+
+		div.gallery {
+		    border: 1px solid #ccc;
+		}
+
+		div.gallery:hover {
+		    border: 1px solid #777;
+		}
+
+		div.gallery img {
+		    width: 100%;
+		    height: auto;
+		}
+
+		div.desc {
+		    padding: 5px;
+		    text-align: center;
+		}
+
+		* {
+		    box-sizing: border-box;
+		}
+
+		.responsive {
+		    padding: 0 6px;
+		    float: left;
+		    width: 24.99999%;
+		}
+
+		@media only screen and (max-width: 700px) {
+		    .responsive {
+		        width: 49.99999%;
+		        margin: 6px 0;
+		    }
+		}
+
+		@media only screen and (max-width: 500px) {
+		    .responsive {
+		        width: 100%;
+		    }
+		}
+
+		.clearfix:after {
+		    content: "";
+		    display: table;
+		    clear: both;
+		}
+		.vranger {
+		  margin-top: 50px;
+		   transform: translate(-40%,50%) rotate(90deg);
+		  -moz-transform: rotate(270deg); /*do same for other browsers if required*/
+
+		}
+	</style>
+</head>
+
+<body>
+	<h1> Search by Analogy Javascript Test</h1>
+	<p> An experiment at moving the search by analogy widget from Python to Javascript. </p>
+
+<!-- 	<p><img id = "imagetest1"></img><img id = "imagetest2"></img><img id = "imagetest3"></img><img id = "imagetest4"></img></p>
+ -->
+	<div class="responsive">
+	  <div class="gallery">
+	    <a target="_blank" href="imagetest1">
+	      <img id="imagetest1"  width="256" height="224">
+	    </a>
+	    <div class="desc" id = "pointA">A</div>
+	  </div>
+	</div>
+
+
+	<div class="responsive">
+	  <div class="gallery">
+	    <a target="_blank" href="imagetest2">
+	      <img id="imagetest2" width="256" height="224">
+	    </a>
+	    <div class="desc" id = "pointB">B</div>
+	  </div>
+	</div>
+
+	<div class="responsive">
+	  <div class="gallery">
+	    <a target="_blank" href="imagetest3">
+	      <img id="imagetest3" width="256" height="224">
+	    </a>
+	    <div class="desc" id = "pointC">C</div>
+	  </div>
+	</div>
+
+	<div class="responsive">
+	  <div class="gallery">
+	    <a target="_blank" href="imagetest4">
+	      <img id="imagetest4" width="256" height="224">
+	    </a>
+	    <div class="desc" id = "pointD">D</div>
+	  </div>
+	</div>
+		
+	<button id="presetButton">Presets</button>
+	<button id="searchButton">Search</button>
+
+	<nav class="container">
+		<div> A
+			<input type="range" min="1" max="2367" value="301" class="slider" id="myRangeA">
+		</div>
+		<div> B
+			<input type="range" min="1" max="2367" value="1858" class="slider" id="myRangeB">
+		</div>
+		<div> C
+			<input type="range" min="1" max="2367" value="1020" class="slider" id="myRangeC">
+		</div>
+		<div> D
+			<input type="range" min="1" max="2367" value="2170" class="slider" id="myRangeD">
+		</div>
+	</nav>
+
+
+	<nav2 class="container2">
+		<div> K
+			<input type="range" class="vranger"  min="-10" max="10" value="1" class="bigSlider" id="myRangeK">
+		</div>
+	</nav2>
+
+
+
+
+
+	<script src="d3.js"></script>
+	<script src="keras.js"></script>
+	<script >
+		let DIMENSION = 256;
+		function vectorDiff(vectorA, vectorB) {
+			var sum = new Float32Array(DIMENSION);
+			for(var comp = 0; comp < DIMENSION; comp++) {
+				sum[comp] = vectorA[comp] - vectorB[comp];
+					}
+					return sum;
+				}
+				function scalarMultiplication(factor, vector) {
+			var modified_vector = new Float32Array(256);
+			for(var comp = 0; comp < vector.length; comp++) {
+				modified_vector[comp] = factor * vector[comp];
+			}
+			return modified_vector;
+		}
+		function vectorSum(vectorA, vectorB) {
+			var sum = new Float32Array(DIMENSION);
+			for(var comp = 0; comp < DIMENSION; comp++) {
+				sum[comp] = vectorA[comp] + vectorB[comp];
+			}
+			return sum;
+		}
+
+		function cosineSimilarity(vectorA, vectorB) {
+			var dot_product = dotProduct((vectorA), (vectorB));
+			var magnitude_product = magnitude(vectorA) * magnitude(vectorB);
+			return dot_product / magnitude_product;
+		}
+
+		function dotProduct(vectorA, vectorB) {
+			var dot_product = 0;
+			for(var comp = 0; comp < DIMENSION; comp++) {
+				dot_product += vectorA[comp] * vectorB[comp];
+			}
+			return dot_product;
+		}
+
+		function magnitude(vector) {
+			return Math.sqrt(dotProduct(vector, vector));
+		}
+
+
+		function vectorDiff(vectorA, vectorB) {
+			var sum = new Float32Array(DIMENSION);
+			for(var comp = 0; comp < DIMENSION; comp++) {
+				sum[comp] = vectorA[comp] - vectorB[comp];
+			}
+			return sum;
+		}
+
+		function normalize(vector) {
+			var normalized = new Float32Array(256);
+			var lowest = Math.min(vector) // added
+
+			if(magnitude(vector)) {
+				for(var comp = 0; comp < vector.length; comp++) {
+					normalized[comp] = vector[comp]+lowest / magnitude(vector);
+				}
+			}
+			return normalized;
+		}
+
+
+	</script>
+	<script src="timeline.js"></script>
+	<script src="render.js"></script>
+
+
+	<script>
+
+	var positionFile = "models/mario_screenshots_predicted.bin";
+	// var positionFile = "models/mario_normed_embedding.bin";
+	var vectorArray = [];
+	var dimensions = 256;
+	
+	var oReq = new XMLHttpRequest();
+	oReq.open("GET", positionFile, true); //Use your file path name here
+	oReq.responseType = "arraybuffer"; //Add this attribute
+
+	oReq.onload = function (oEvent) {
+	vectorArray = [];
+	 var arrayBuffer = oReq.response; // Note: not oReq.responseText
+	 if (arrayBuffer) {
+	   var float32Array = new Float32Array(arrayBuffer);
+	  for (var i = 0; i < float32Array.length; i = i + dimensions) {
+	    var temp = []
+	    for (var j = 0; j < dimensions; j++) {
+	      temp[j] = float32Array[i+j] ;
+	    }
+	    vectorArray.push(temp);
+
+	   
+	 }
+	  draw_graph();
+	}};
+
+	oReq.send(null);
+
+		const experiment_config = {
+			"screenshot_path": "images/mario_screenshots/",
+			"num_images": 2377,
+			"frames_per_step": 10,
+			"mario_a_time" : 301,
+			"mario_b_time" : 1858,
+			"mario_c_time" : 1020,
+			"mario_d_time" : 2170,
+		};
+		show_image("images/mario_screenshots/3010.png","imagetest1");
+		show_image("images/mario_screenshots/18580.png","imagetest2");
+		show_image("images/mario_screenshots/10200.png","imagetest3");
+		show_image("images/mario_screenshots/21700.png","imagetest4");
+		replace_text(myRangeA.value,"pointA")
+		replace_text(myRangeB.value,"pointB")
+		replace_text(myRangeC.value,"pointC")
+		replace_text(myRangeD.value,"pointD")
+
+		var mario_image_vectors = [];
+
+		presetButton.addEventListener("click",presetButtonClicked);
+		function presetButtonClicked(e) {
+			myRangeA.value = experiment_config['mario_a_time'] ;
+			sliderChangedA();
+			myRangeB.value = experiment_config['mario_b_time']  ;
+			sliderChangedB();
+			myRangeC.value = experiment_config['mario_c_time']  ;
+			sliderChangedC();
+			myRangeD.value = experiment_config['mario_d_time']  ;
+			sliderChangedD();
+			myRangeK.value = 1  ;
+			sliderChangedD();
+		}
+
+		searchButton.addEventListener("click",searchButtonClicked);
+		function searchButtonClicked(e){
+
+			var data = [];
+			for (i = 0; i < experiment_config['num_images']-2; i++) { 
+				var qVector =vectorDiff(vectorArray[myRangeB.value], vectorArray[myRangeA.value])
+				qVector = scalarMultiplication(myRangeK.value,qVector)
+				qVector = vectorSum(vectorArray[myRangeC.value], qVector)
+				data.push( cosineSimilarity(vectorArray[i], qVector ) ); 
+			}
+
+			sortWithIndeces(data);
+			data.sortIndices.reverse();
+			myRangeD.value = data.sortIndices[0];
+
+			console.log("Search button has been clicked! The K value is:");
+			console.log(myRangeK.value);
+			console.log("The D value is:");
+			console.log(myRangeD.value);
+
+			var filename = experiment_config['screenshot_path']+(myRangeD.value*experiment_config['frames_per_step'])+".png";
+			show_image(filename, "imagetest4");
+			draw_graph();
+			replace_text(myRangeD.value,"pointD")
+		}
+
+		function sortWithIndeces(toSort) {
+			  for (var i = 0; i < toSort.length; i++) {
+			    toSort[i] = [toSort[i], i];
+			  }
+			  toSort.sort(function(left, right) {
+			    return left[0] < right[0] ? -1 : 1;
+			  });
+			  toSort.sortIndices = [];
+			  for (var j = 0; j < toSort.length; j++) {
+			    toSort.sortIndices.push(toSort[j][1]);
+			    toSort[j] = toSort[j][0];
+			  }
+			  return toSort;
+}
+
+		myRangeA.addEventListener("input",sliderChangedA);
+		myRangeB.addEventListener("input",sliderChangedB);
+		myRangeC.addEventListener("input",sliderChangedC);
+		myRangeD.addEventListener("input",sliderChangedD);
+		myRangeK.addEventListener("input",sliderChangedK);
+		window.addEventListener("resize", draw_graph);
+		
+		function sliderChangedA(e){
+			var filename = experiment_config['screenshot_path']
+				+(myRangeA.value*experiment_config['frames_per_step'])+".png";
+			show_image(filename, "imagetest1");
+			replace_text(myRangeA.value,"pointA")
+			draw_graph();
+		}
+		function sliderChangedB(e){
+			var filename = experiment_config['screenshot_path']
+				+(myRangeB.value*experiment_config['frames_per_step'])+".png";
+			show_image(filename, "imagetest2");
+			replace_text(myRangeB.value,"pointB")
+			draw_graph();
+		}
+		function sliderChangedC(e){
+			var filename = experiment_config['screenshot_path']
+				+(myRangeC.value*experiment_config['frames_per_step'])+".png";
+			show_image(filename, "imagetest3");
+			replace_text(myRangeC.value,"pointC")
+			draw_graph();
+		}
+		function sliderChangedD(e){
+			var filename = experiment_config['screenshot_path']
+				+(myRangeD.value*experiment_config['frames_per_step'])+".png";
+			show_image(filename, "imagetest4");
+			replace_text(myRangeD.value,"pointD")
+			draw_graph();
+		}
+
+		function sliderChangedK(e){
+			draw_graph();
+		}
+
+		function show_image(src, whereto) {
+		    document.getElementById(whereto).src =src;
+		};
+
+		function replace_text(txt,whereto){
+			document.getElementById(whereto).innerHTML = txt;
+		}
+
+		function draw_graph(e){
+			var i;
+			var data = [];
+			var dataset = [];
+			for (i = 0; i < experiment_config['num_images']-2; i++) { 
+				var qVector =vectorDiff(vectorArray[myRangeB.value], vectorArray[myRangeA.value])
+				qVector = scalarMultiplication(myRangeK.value,qVector)
+				qVector = vectorSum(vectorArray[myRangeC.value], qVector)
+				lowest = Math.min(data);
+				dataset.push({"y":cosineSimilarity(vectorArray[i], qVector)});
+			}
+			
+
+			// 2. Use the margin convention practice 
+			var margin = {top: 50, right: 50, bottom: 50, left: 50}
+			  , width = (window.innerWidth - margin.left - margin.right) * .90 // Use the window's width 
+			  , height = (window.innerHeight - margin.top - margin.bottom)*.3; // Use the window's height
+
+			// The number of datapoints
+			var n = experiment_config['num_images'];
+
+			// 5. X scale will use the index of our data
+			var xScale = d3.scaleLinear()
+			    .domain([0, n-1]) // input
+			    .range([0, width]); // output
+
+			//  Y scale  
+			var yScale = d3.scaleLinear()
+			    .domain([0, 1]) // input 
+			    .range([height, 0]); // output 
+
+			// d3's line generator
+			var line = d3.line()
+			    .x(function(d, i) { return xScale(i); }) // set the x values for the line generator
+			    .y(function(d) { return yScale(d.y); }) // set the y values for the line generator 
+			    .curve(d3.curveMonotoneX) // apply smoothing to the line
+
+			// 1. Add the SVG to the page and employ #2
+			d3.select("svg").remove();
+			var svg = d3.select("nav2").append("svg")
+			    .attr("width", width + margin.left + margin.right)
+			    .attr("height", height + margin.top + margin.bottom)
+			  .append("g")
+			    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+			// 3. Call the x axis in a group tag
+			svg.append("g")
+			    .attr("class", "x axis")
+			    .attr("transform", "translate(0," + height + ")")
+			    .call(d3.axisBottom(xScale)); // Create an axis component with d3.axisBottom
+
+			// 4. Call the y axis in a group tag
+			svg.append("g")
+			    .attr("class", "y axis")
+			    .call(d3.axisLeft(yScale)); // Create an axis component with d3.axisLeft
+
+			// 9. Append the path, bind the data, and call the line generator 
+			svg.append("path")
+			    .datum(dataset) // 10. Binds data to the line 
+			    .attr("class", "line") // Assign a class for styling 
+			    .attr("d", line); // 11. Calls the line generator 
+
+			svg.append("line")         
+			    .style("stroke", "black")  
+			    .attr("x1", xScale(myRangeA.value))    
+			    .attr("y1", yScale(1))    
+			    .attr("x2", xScale(myRangeA.value))    
+			    .attr("y1", yScale(0)) ;   
+			svg.append("circle")
+				.style("fill","black")
+				.attr("cx",xScale(myRangeA.value))
+				.attr("cy",(yScale(dataset[myRangeA.value]['y'])))
+				.attr("r",5);
+			svg.append("text")
+				.attr("x", xScale(myRangeA.value)-5)
+                .attr("y", yScale(dataset[myRangeA.value]['y'])-10 ) 
+                .text( "A")
+                .attr("font-family", "sans-serif")
+                .attr("font-size", "20px")
+              	.attr("fill", "black");
+
+			svg.append("line")         
+			    .style("stroke", "green")  
+			    .attr("x1", xScale(myRangeB.value))    
+			    .attr("y1", yScale(1))    
+			    .attr("x2", xScale(myRangeB.value))    
+			    .attr("y1", yScale(0)) ;  
+			svg.append("circle")
+				.style("fill","green")
+				.attr("cx",xScale(myRangeB.value))
+				.attr("cy",(yScale(dataset[myRangeB.value]['y'])))
+				.attr("r",5);
+			svg.append("text")
+				.attr("x", xScale(myRangeB.value)-5)
+                .attr("y", yScale(dataset[myRangeB.value]['y'])-10 ) 
+                .text( "B")
+                .attr("font-family", "sans-serif")
+                .attr("font-size", "20px")
+              	.attr("fill", "green");
+
+			svg.append("line")         
+			    .style("stroke", "blue")  
+			    .attr("x1", xScale(myRangeC.value))    
+			    .attr("y1", yScale(1))    
+			    .attr("x2", xScale(myRangeC.value))    
+			    .attr("y1", yScale(0)) ;  
+			svg.append("circle")
+				.style("fill","blue")
+				.attr("cx",xScale(myRangeC.value))
+				.attr("cy",yScale((dataset[myRangeC.value]['y'])))
+				.attr("r",5);
+			svg.append("text")
+				.attr("x", xScale(myRangeC.value)-5)
+                .attr("y", yScale(dataset[myRangeC.value]['y'])-10 ) 
+                .text( "C")
+                .attr("font-family", "sans-serif")
+                .attr("font-size", "20px")
+              	.attr("fill", "blue");
+
+			svg.append("line")         
+			    .style("stroke", "red")  
+			    .attr("x1", xScale(myRangeD.value))    
+			    .attr("y1", yScale(1))    
+			    .attr("x2", xScale(myRangeD.value))    
+			    .attr("y1", yScale(0)) ;  
+			svg.append("circle")
+				.style("fill","red")
+				.attr("cx",xScale(myRangeD.value))
+				.attr("cy",yScale((dataset[myRangeD.value]['y'])))
+				.attr("r",5);
+			svg.append("text")
+				.attr("x", xScale(myRangeD.value)-5)
+                .attr("y", yScale(dataset[myRangeD.value]['y'])-10 ) 
+                .text( "D")
+                .attr("font-family", "sans-serif")
+                .attr("font-size", "20px")
+              	.attr("fill", "red");
+
+              	return svg;
+		}
+
+		
+	</script>
+
+</body>
+
+
+
+
+</html>
