@@ -156,8 +156,14 @@
 		}
 		.vranger {
 		  margin-top: 50px;
-		   transform: translate(-40%,50%) rotate(90deg);
+		   transform: translate(-40%,50%) rotate(270deg);
 		  -moz-transform: rotate(270deg); /*do same for other browsers if required*/
+
+		}
+
+		.text{
+
+		font-family: Arial, Helvetica, sans-serif;
 
 		}
 	</style>
@@ -210,24 +216,24 @@
 	<button id="searchButton">Search</button>
 
 	<nav class="container">
-		<div> A
+		<div class="desc" id = "labelA"> <font face="Helvetica">A</font>
 			<input type="range" min="1" max="2367" value="301" class="slider" id="myRangeA">
 		</div>
-		<div> B
+		<div> <font face="Helvetica">B</font>
 			<input type="range" min="1" max="2367" value="1858" class="slider" id="myRangeB">
 		</div>
-		<div> C
+		<div> <font face="Helvetica">C</font>
 			<input type="range" min="1" max="2367" value="1020" class="slider" id="myRangeC">
 		</div>
-		<div> D
+		<div> <font face="Helvetica">D</font>
 			<input type="range" min="1" max="2367" value="2170" class="slider" id="myRangeD">
 		</div>
 	</nav>
 
 
 	<nav2 class="container2">
-		<div> K
-			<input type="range" class="vranger"  min="-10" max="10" value="1" class="bigSlider" id="myRangeK">
+		<div> <font face="Helvetica" color = "black">K=</font> <font id="kValue" face="Helvetica" color="black">N</font>
+			<input type="range" class="vranger"  min="-10" max="10" value="1.0" placeholder = "0.0" step = .1 class="bigSlider" id="myRangeK">
 		</div>
 	</nav2>
 
@@ -353,6 +359,7 @@
 		replace_text(myRangeB.value,"pointB")
 		replace_text(myRangeC.value,"pointC")
 		replace_text(myRangeD.value,"pointD")
+		replace_text(parseFloat(myRangeK.value).toFixed(1),"kValue")
 
 		var mario_image_vectors = [];
 
@@ -368,6 +375,8 @@
 			sliderChangedD();
 			myRangeK.value = 1  ;
 			sliderChangedD();
+			replace_text(parseFloat(myRangeK.value).toFixed(1),"kValue")
+			draw_graph();
 		}
 
 		searchButton.addEventListener("click",searchButtonClicked);
@@ -448,6 +457,7 @@
 		}
 
 		function sliderChangedK(e){
+			replace_text(parseFloat(myRangeK.value).toFixed(1),"kValue")
 			draw_graph();
 		}
 
@@ -487,7 +497,7 @@
 
 			//  Y scale  
 			var yScale = d3.scaleLinear()
-			    .domain([0, 1]) // input 
+			    .domain([-1, 1]) // input 
 			    .range([height, 0]); // output 
 
 			// d3's line generator
@@ -526,7 +536,7 @@
 			    .attr("x1", xScale(myRangeA.value))    
 			    .attr("y1", yScale(1))    
 			    .attr("x2", xScale(myRangeA.value))    
-			    .attr("y1", yScale(0)) ;   
+			    .attr("y1", yScale(-1)) ;   
 			svg.append("circle")
 				.style("fill","black")
 				.attr("cx",xScale(myRangeA.value))
@@ -545,7 +555,7 @@
 			    .attr("x1", xScale(myRangeB.value))    
 			    .attr("y1", yScale(1))    
 			    .attr("x2", xScale(myRangeB.value))    
-			    .attr("y1", yScale(0)) ;  
+			    .attr("y1", yScale(-1)) ;  
 			svg.append("circle")
 				.style("fill","green")
 				.attr("cx",xScale(myRangeB.value))
@@ -564,7 +574,7 @@
 			    .attr("x1", xScale(myRangeC.value))    
 			    .attr("y1", yScale(1))    
 			    .attr("x2", xScale(myRangeC.value))    
-			    .attr("y1", yScale(0)) ;  
+			    .attr("y1", yScale(-1)) ;  
 			svg.append("circle")
 				.style("fill","blue")
 				.attr("cx",xScale(myRangeC.value))
@@ -583,7 +593,7 @@
 			    .attr("x1", xScale(myRangeD.value))    
 			    .attr("y1", yScale(1))    
 			    .attr("x2", xScale(myRangeD.value))    
-			    .attr("y1", yScale(0)) ;  
+			    .attr("y1", yScale(-1)) ;  
 			svg.append("circle")
 				.style("fill","red")
 				.attr("cx",xScale(myRangeD.value))
