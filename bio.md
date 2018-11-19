@@ -1,4 +1,4 @@
-[Projects](index.html) | [About Me](bio.html) | [Contact](contact.html) | [CV](CV.html) 
+[Projects](index.html) | [About Me](bio.html) | [CV](CV.html) 
 
 # About Me
 
