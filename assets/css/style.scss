@@ -1,9 +1,13 @@
 ---
 ---
-
 @import "{{ site.theme }}";
+/* "{{ site.theme }}" = Your theme name */
+/* Eg: @import 'jekyll-theme-cayman'; */
 
-
+/* Your css rules goes after this */
+.page-header {
+    background: #191c20;
+}
 /*/*/*/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /**
  * 1. Set default font family to sans-serif.
