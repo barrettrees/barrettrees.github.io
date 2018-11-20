@@ -19,7 +19,7 @@
 
 <div class="gallery">
   
-   <div class="desc">
+  <div class="desc">
   
   Crime Metaphor Game
   
@@ -46,9 +46,13 @@
 </div>
 
 <div class="gallery">
+    
+   <div class="desc">
   
-
-
+   K Street
+  
+   </div>
+  
   <a href="K_Street.html">
     <img src="kstreet.png" alt="K Street Card Game" width="300" height="200">
   </a>
