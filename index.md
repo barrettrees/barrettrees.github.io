@@ -31,8 +31,6 @@
 
 </div>
 
-<p></p>
-
 <div class="gallery">
   
   <div class="desc">
@@ -45,13 +43,11 @@
     <img src="STEM_VR.png" alt="STEM VR" width="300" height="200">
   </a>
  
-
-
 </div>
 
 <div class="gallery">
   
-   <div class="desc">
+  <div class="desc">
   
   K Street
   
