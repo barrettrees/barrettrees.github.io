@@ -31,8 +31,8 @@ varied to test effect of specific aspects, the addition of built-in data collect
 freely with other researchers. The game was inspired by both previous psychological research and knowledge of existing games, 
 improved by the process of critique and pilot testing, and ultimately evaluated in the context of other persuasive games. 
 
-**Technology:** The game was built in Python, using [Pygame](https://www.pygame.org) and assets from the [Noun Project](https://thenounproject.com/) 
-and [Freesound](https://freesound.org/). Behavioral and survey data was analyzed using Python, [R](https://www.r-project.org/), and [SPSS](https://www.ibm.com/analytics/spss-statistics-software).
+**Technology:** The game was built in [Python](https://www.python.org/), using [Pygame](https://www.pygame.org) and assets from the [Noun Project](https://thenounproject.com/) 
+and [Freesound](https://freesound.org/). Survey data was collected with [Google Forms](https://docs.google.com/forms) and analyzed using [Python](https://www.python.org/), [R](https://www.r-project.org/), and [SPSS](https://www.ibm.com/analytics/spss-statistics-software).
 
 **Outcomes:** Participants who played the game identified it as rhetorical, and were able to identify some specific arguments they felt the game was making. 
 Consistent with other persuasive games, participants did not report any shift in their behavior or values. A follow-up experiment
