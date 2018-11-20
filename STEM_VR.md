@@ -12,5 +12,5 @@
 
 **Technology:** The virtual environment was created in Unity and presented with an HTC Vive virtual reality headset. 
 
-**Outcomes:** Participants who imagined a successful futuer self in the VR STEM environment reported greater feelings of belong and confidence in STEM fields. This work resulted in presentations at the Media Preconference for the 8th Confererence of the Society for the Study of Emerging Adulthood in Washington, D.C. and the 4th Annual Gender & STEM Network Conference, in Eugene, O.R. 
+**Outcomes:** Participants who imagined a successful futuer self in the VR STEM environment reported greater feelings of belong and confidence in STEM fields. This work resulted in presentations at the Media Preconference for the 8th Confererence of the Society for the Study of Emerging Adulthood in Washington, D.C. and the 4th Annual Gender & STEM Network Conference, in Eugene, O.R. <br>
 A manuscript describing this work is under review.
