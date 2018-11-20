@@ -2,9 +2,22 @@
 
 # K Street Card Game
 
-<div class="img-container">
-
-<img src="kstreet.png">
+  <div class="project-slideshow">
+  
+  <div>
+  
+   <img src="kstreet.png" alt="K Street">
+  
+  </div>
+  
+   <div>
+  
+   <img src="kstreet.png" alt="K Street">
+  
+  </div>
+  
+  </div>
+  
 
 <div markdown="1" >
 
@@ -19,4 +32,3 @@ print-and-play prototype deck [here.](http://barrettrees.com/K Street Deck.pdf)
 
 </div>
 
-</div>
