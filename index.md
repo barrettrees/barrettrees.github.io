@@ -6,12 +6,13 @@
   
   <div class="desc">
   
-  Searching for moments in a game, based on their relationships to other moments.
+  Explaining Search By Analogy for Videogame Moments
   
   </div>
   
   <a target="_blank" href="Analogy.png">
     <img src="Analogy.png" alt="Search by Analogy" width="300" height="200">
+  
   </a>
 
 </div>
@@ -35,7 +36,7 @@
 <div class="gallery">
   
   <a target="_blank" href="STEM_VR.png">
-    <img src="STEM_VR.png" alt="STEM VR" width="300" height="200">
+    <img src="bio.html" alt="STEM VR" width="300" height="200">
   </a>
  
  <div class="desc">
