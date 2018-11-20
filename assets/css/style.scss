@@ -5,6 +5,12 @@
 /* Eg: @import 'jekyll-theme-cayman'; */
 
 /* Your css rules goes after this */
+.main-content {
+      max-width: auto;
+      padding: 2rem 6rem;
+      margin: 0 auto;
+      font-size: 1.1rem; }
+
 .page-header {
   color: #fff;
   text-align: center;
@@ -19,6 +25,8 @@
   @media screen and (max-width: 42em) {
     .page-header {
       padding: 2rem 1rem; } }
+
+
 
 
 div.gallery {
