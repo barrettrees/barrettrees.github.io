@@ -8,7 +8,7 @@
 
 <img src="STEM_VR.png">
 
-<div markdown="1" class="img-container">
+<div markdown="1" >
 
 **Summary:** This was a VR game designed to encourage women's interest in STEM fields in the context of a psychological experiment.
 
