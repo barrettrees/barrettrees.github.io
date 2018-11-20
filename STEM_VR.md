@@ -4,7 +4,7 @@
 # STEM VR Office 
 *With [https://www.researchgate.net/profile/Christine_Starr] (Christy Starr) and [http://www.katieagreen.com/] (Katie Green) *
 
-<img align = "left" src="VR_STEM.png" style="float: left; padding: 3px 3px 3px 3px;">
+<img align = "left" src="STEM_VR.png" style="float: left; padding: 3px 3px 3px 3px;">
 
 **Summary:** This was a VR game designed to encourage women's interest in STEM fields in the context of a psychological experiment.
 
