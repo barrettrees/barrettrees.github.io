@@ -3,9 +3,21 @@
 # STEM VR Office 
 *With [Christy Starr](https://www.researchgate.net/profile/Christine_Starr) and [Katie Green](http://www.katieagreen.com/)*
 
-<div class="img-container">
-
-<img src="STEM_VR.png">
+  <div class="project-slideshow">
+  
+  <div>
+  
+   <img src="STEM_VR.png" alt="STEM VR Office">
+  
+  </div>
+  
+   <div>
+  
+   <img src="STEM_VR.png" >
+  
+  </div>
+  
+  </div>
 
 <div markdown="1" >
 
@@ -20,4 +32,3 @@ A manuscript describing this work is under review.
 
 </div>
 
-</div>
