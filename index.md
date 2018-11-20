@@ -6,7 +6,7 @@
   
   <div class="desc">
   
-  Explaining Search By Analogy with Videogames
+  Explaining Search By Analogy 
   
   </div>
   
