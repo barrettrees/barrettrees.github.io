@@ -49,19 +49,18 @@
 
 </div>
 
- <div class="desc">
+<div class="gallery">
+  
+   <div class="desc">
   
   K Street
   
   </div>
 
-<div class="gallery">
   
   <a target="_blank" href="kstreet.png">
     <img src="kstreet.png" alt="K Street Card Game" width="300" height="200">
   </a>
  
-
-
 </div>
 
