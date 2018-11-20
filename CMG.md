@@ -4,7 +4,7 @@
 
 <div class="img-container">
 
-<img src="CMG.png">
+<img src="crimegame.png">
 
 <div markdown="1" >
 
