@@ -14,8 +14,8 @@
 
 **Technology:** Cards were prototyped with [nanDeck](http://www.nand.it/nandeck/).
 
-**Outcomes:** The game instructions are available [here.]("http://barrettrees.com/K Street Instructions.pdf"), with a 
-print-and-play prototype deck [here]("http://barrettrees.com/K Street Deck.pdf").
+**Outcomes:** The game instructions are available [here.](http://barrettrees.com/K Street Instructions.pdf), with a 
+print-and-play prototype deck [here.](http://barrettrees.com/K Street Deck.pdf)
 
 </div>
 
