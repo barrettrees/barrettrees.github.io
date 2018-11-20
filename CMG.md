@@ -2,9 +2,21 @@
 
 # Crime Metaphor Game
 
-<div class="img-container">
-
-<img src="crimegame.png">
+  <div class="project-slideshow">
+  
+  <div>
+  
+   <img src="crimegame.png" alt="CMG">
+  
+  </div>
+  
+   <div>
+  
+   <img src="crimegame.png" >
+  
+  </div>
+  
+  </div>
 
 <div markdown="1" >
 
@@ -28,4 +40,3 @@ testing the effectiveness of several variations of this game is currently underw
 
 </div>
 
-</div>
