@@ -10,7 +10,7 @@
   
   </div>
   
-  <a target="_blank" href="Analogy.png">
+  <a href="Analogy_Explainer.html">
     <img src="Analogy.png" alt="Search by Analogy" width="300" height="200">
   
   </a>
@@ -25,7 +25,7 @@
   
   </div>
   
-  <a target="_blank" href="crimegame.png">
+  <a href="CMG.html">
     <img src="crimegame.png" alt="Crime Metaphor Game" width="300" height="200">
   </a>
 
@@ -39,7 +39,7 @@
   
   </div>
   
-  <a target="_blank" href="STEM_VR.html">
+  <a href="STEM_VR.html">
     <img src="STEM_VR.png" alt="STEM VR" width="300" height="200">
   </a>
  
@@ -47,13 +47,9 @@
 
 <div class="gallery">
   
-  <div class="desc">
-  
-  K Street
-  
-  </div>
 
-  <a target="_blank" href="kstreet.png">
+
+  <a href="K_Street.html">
     <img src="kstreet.png" alt="K Street Card Game" width="300" height="200">
   </a>
  
