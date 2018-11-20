@@ -4,7 +4,7 @@
 
 <div class="img-container">
 
-<img src="KStreet.png">
+<img src="kstreet.png">
 
 <div markdown="1" >
 
