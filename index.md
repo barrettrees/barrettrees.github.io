@@ -10,7 +10,7 @@
   
   <div class="desc">
   
-  A new way of searching for moments in a game, based on their relationships to other moments. This project is an explainer for the underlying concept, which has applications in other domains.
+  Searching for moments in a game, based on their relationships to other moments.
   
   </div>
 
@@ -24,7 +24,7 @@
   
   <div class="desc">
   
-  A game designed to convey a simplified model of the relationship between crime and law enforcement. Created as part of an experiment testing the psychological reality of procedural rhetoric.
+  Testing the psychological reality of procedural rhetoric with a game about crime.
   
   </div>
 
@@ -55,7 +55,7 @@
  <div class="desc">
   
   *Designed w/ Dylan Lederle-Ensign*
-  A deck-building card game about political lobbying. Senators and scandals instead of orcs and spells. Includes a bluffing mechanic! Educational and ~~upsetting~~ fun!
+  A deck-building card game about political lobbying.
   
   </div>
 
