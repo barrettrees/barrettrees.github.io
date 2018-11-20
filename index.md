@@ -57,7 +57,6 @@
   
   </div>
 
-  
   <a target="_blank" href="kstreet.png">
     <img src="kstreet.png" alt="K Street Card Game" width="300" height="200">
   </a>
