@@ -6,7 +6,7 @@
 
 <div class="clearfix float-my-children">
 
-<img align = "left" src="STEM_VR.png" width = "40%" style="padding: 13px 13px 13px 13px;">
+<img align = "left" src="STEM_VR.png" width = "100%" ">
 
 <div>
 
