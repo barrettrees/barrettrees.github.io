@@ -18,6 +18,7 @@
   
   <a href="CMG.html">
     <img src="crimegame.png" alt="Crime Metaphor Game" width="300" height="200">
+    Crime Metaphor Game
   </a>
   
   </div>
@@ -26,6 +27,7 @@
   
   <a href="STEM_VR.html">
     <img src="STEM_VR.png" alt="STEM VR" width="300" height="200">
+    STEM VR Office
   </a>
   
   </div>
@@ -34,6 +36,7 @@
   
   <a href="K_Street.html">
    <img src="kstreet.png" alt="K Street Card Game" width="300" height="200">
+    K Street Card Game
   </a>
   
   </div>
