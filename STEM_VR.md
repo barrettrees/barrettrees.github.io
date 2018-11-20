@@ -8,7 +8,7 @@
 
 <img src="STEM_VR.png" width = "50%">
 
-<div>
+<div class="text">
 
 **Summary:** This was a VR game designed to encourage women's interest in STEM fields in the context of a psychological experiment.
 
