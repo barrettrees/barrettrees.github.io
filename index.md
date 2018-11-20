@@ -4,15 +4,15 @@
 
 <div class="gallery">
   
-  <a target="_blank" href="Analogy.png">
-    <img src="Analogy.png" alt="Search by Analogy" width="300" height="200">
-  </a>
-  
   <div class="desc">
   
   Searching for moments in a game, based on their relationships to other moments.
   
   </div>
+  
+  <a target="_blank" href="Analogy.png">
+    <img src="Analogy.png" alt="Search by Analogy" width="300" height="200">
+  </a>
 
 </div>
 
