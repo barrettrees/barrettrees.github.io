@@ -6,13 +6,13 @@
   
   <div>
   
-   <img src="analogy.png" alt="K Street">
+   <img src="Analogy.png">
   
   </div>
   
    <div>
   
-   <img src="analogy.png" alt="K Street">
+   <img src="Analogy.png">
   
   </div>
   
