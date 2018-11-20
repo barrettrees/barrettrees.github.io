@@ -8,7 +8,7 @@
 
 <div markdown="1" >
 
-**Summary:** This projects is an interactive explanation of the concept of search by analogy, with an emphasis on searching for moments within video games.
+**Summary:** An interactive explanation of the concept of search by analogy, with an emphasis on searching for moments within video games.
 
 **Process:** A previous project resulted in defining video game moments as vectors. 
 Existing work exploring vector analogies in text inspired us to explore the potential of this kind of work for our video game moments. 
@@ -16,7 +16,7 @@ Given promising initial results, we decided to develop a tool to facilitate furt
 
 **Technology:** This project was prototyped in Python and then ported to Javascript for public consumption.
 
-**Outcomes:** The explainer will be available online. A test version of the primary widget is [here.](http://barrettrees.com/analogy_javascript_test.html).
+**Outcomes:** The explainer will be available online. A test version of the primary widget is [here.](http://barrettrees.com/analogy_javascript_test.html)
 
 </div>
 
