@@ -2,9 +2,21 @@
 
 # Explaining Search by Analogy with Videogmae Moments
 
-<div class="img-container">
-
-<img src="Analogy.png">
+  <div class="project-slideshow">
+  
+  <div>
+  
+   <img src="analogy.png" alt="K Street">
+  
+  </div>
+  
+   <div>
+  
+   <img src="analogy.png" alt="K Street">
+  
+  </div>
+  
+  </div>
 
 <div markdown="1" >
 
@@ -20,4 +32,3 @@ Given promising initial results, we decided to develop a tool to facilitate furt
 
 </div>
 
-</div>
