@@ -8,7 +8,7 @@
 - Bachelor of Science in Psychology, Santa Clara University   | 2003
 - Bachelor of Arts in Philosophy, Santa Clara University	   | 2003
 
-## Publications
+## Peer Reviewed Publications
 - **Anderson, B.R.**, & Smith, A.M. (under review). Understanding user needs in videogame moment retrieval.
 - Davidenko, N., Cheong, Y., Waterman, A., Smith, J., **Anderson, B.**, & Harmon, S. (2018). [The influence of visual and vestibular orientation cues in a clock reading task.](https://www.sciencedirect.com/science/article/pii/S1053810018300448) *Consciousness and Cognition, 64*, 196–206.
 - **Anderson, B. R.**, & Feist, G. J. (2017). [Transformative science: a new index and the impact of non-funding, private funding, and public funding.](https://www.tandfonline.com/doi/abs/10.1080/02691728.2016.1241321) *Social Epistemology, 31(2)*, 130-151.
