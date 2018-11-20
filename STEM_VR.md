@@ -6,9 +6,9 @@
 
 <div class="clearfix float-my-children">
 
-<img src="STEM_VR.png" width = "50%">
+<img src="STEM_VR.png" width = "30%">
 
-<div markdown="1">
+<div markdown="1" width ="65%">
 
 **Summary:** This was a VR game designed to encourage women's interest in STEM fields in the context of a psychological experiment.
 
