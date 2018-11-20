@@ -29,12 +29,11 @@
 
 **Summary:** This was a VR game designed to encourage women's interest in STEM fields in the context of a psychological experiment.
 
-**Process:** We created a VR office, and asked participants to imagine that it belonged to their future self. This office was filled with various signs of success (graduate degree, awards, work-in-progress,etc.), and customized with the participant's name. There were two versions of the office created for the study, one for STEM and one for Humanities. 
+**Process:** We created a VR office, and asked participants to explore the space while imagining that it belonged to their future self. This office was filled with various signs of success (a graduate degree, awards, works-in-progress,etc.), and customized with the participant's name. There were two variations, one presenting a successful future in STEM and one presenting a successful future in the humanities. 
 
-**Technology:** The virtual environment was created in Unity and presented with an HTC Vive virtual reality headset. 
+**Technology:** The virtual environment was created in [Unity](https://unity3d.com/) and presented with an [HTC Vive](https://www.vive.com) virtual reality headset. Surveys were presented via [psychsurveys.org](https://www.psychsurveys.org/) and analyzed using [R](https://www.r-project.org/) and [SPSS](https://www.ibm.com/analytics/spss-statistics-software).
 
-**Outcomes:** Participants who imagined a successful futuer self in the VR STEM environment reported greater feelings of belong and confidence in STEM fields. This work resulted in presentations at the Media Preconference for the 8th Confererence of the Society for the Study of Emerging Adulthood in Washington, D.C. and the 4th Annual Gender & STEM Network Conference, in Eugene, O.R. <br>
-A manuscript describing this work is under review.
+**Outcomes:** Participants who imagined a successful futuer self in the VR STEM environment reported greater feelings of belong and confidence in STEM fields. This work resulted in presentations at the Media Preconference for the 8th Confererence of the Society for the Study of Emerging Adulthood in Washington, D.C. and the 4th Annual Gender & STEM Network Conference, in Eugene, O.R. A manuscript describing this work is currently under review.
 
 </div>
 
