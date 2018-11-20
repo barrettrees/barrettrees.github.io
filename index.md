@@ -35,7 +35,7 @@
   
   <div class="desc">
   
-  STEM VR Experience
+  STEM VR Office
   
   </div>
   
