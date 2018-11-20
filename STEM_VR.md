@@ -6,7 +6,7 @@
 
 <div class="clearfix float-my-children">
 
-<img src="STEM_VR.png" width = "100%">
+<img src="STEM_VR.png" width = "50%">
 
 <div>
 
