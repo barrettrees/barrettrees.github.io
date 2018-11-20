@@ -6,7 +6,7 @@
   
   <div class="desc">
   
-  Explaining Search By Analogy for Videogame Moments
+  Explaining Search By Analogy with Videogames
   
   </div>
   
@@ -46,3 +46,16 @@
 </div>
 
 
+<div class="gallery">
+    
+   <div class="desc">
+  
+   K Street Card Game
+  
+   </div>
+  
+  <a href="K_Street.html">
+    <img src="kstreet.png" alt="K Street Card Game" width="300" height="200">
+  </a>
+ 
+</div>
