@@ -35,7 +35,7 @@
 
 **Summary:** A deckbuilding cardgame with a political lobbying theme and a bluffing mechanic.
 
-**Process:** The game was created for a playable media course at UCSC in Winter 2015, and was improved over several rounds of criticique and playtesting.
+**Process:** The game was created for a playable media course at UCSC in Winter 2015, and was improved over several rounds of criticique and playtesting. We chose a modern political theme in reaction the common science fiction and fantasy themes in the majority of deckbuilding games avaialable at the time. This theme guided us to experiment with a bluffing mechanic, which resulted in more counterplay and player interaction.
 
 **Technology:** Cards were prototyped with [nanDeck](http://www.nand.it/nandeck/).
 
