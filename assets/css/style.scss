@@ -37,7 +37,7 @@ div.gallery img {
     height: auto;
 }
 
-.overlay {
+div.gallery.overlay {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -50,7 +50,7 @@ div.gallery img {
   background-color: #008CBA;
 }
 
-.gallery:hover .overlay {
+div.gallery:hover .overlay {
   opacity: .5;
 }
 
