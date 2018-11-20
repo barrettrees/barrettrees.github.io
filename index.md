@@ -35,7 +35,7 @@
   <div>
   
   <a href="K_Street.html">
-   <img src="kstreet.png" alt="K Street Card Game" width="300" height="200">
+   <img src="kstreet4.png" alt="K Street Card Game" width="300" height="200">
     K Street Card Game
   </a>
   
