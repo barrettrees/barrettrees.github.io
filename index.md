@@ -10,7 +10,7 @@
   
   </div>
   
-  <a href="Analogy_Explainer.html">
+  <a href="Analogy.html">
     <img src="Analogy.png" alt="Search by Analogy" width="300" height="200">
   
   </a>
