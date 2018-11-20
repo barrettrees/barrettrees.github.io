@@ -13,7 +13,13 @@
   
    <div>
   
-   <img src="STEM_VR.png" >
+   <img src="STEM_VR3.png" >
+  
+  </div>
+  
+   <div>
+  
+   <img src="STEM_VR2.png" >
   
   </div>
   
