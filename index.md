@@ -35,8 +35,8 @@
 
 <div class="gallery">
   
-  <a target="_blank" href="STEM_VR.png">
-    <img src="bio.html" alt="STEM VR" width="300" height="200">
+  <a target="_blank" href="STEM_VR.html">
+    <img src="STEM_VR.png" alt="STEM VR" width="300" height="200">
   </a>
  
  <div class="desc">
