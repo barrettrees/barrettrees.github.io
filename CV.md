@@ -2,11 +2,29 @@
 
 # Curriculum Vitae
 ## Education
-- Pursuing PhD in Computational Media, UC Santa Cruz &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expected 2020
-- MS in Computational Media, UC Santa Cruz &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expected 2018
-- MA in Experimental Psychology, San Jose State University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2013
-- Bachelor of Science in Psychology, Santa Clara University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2003
-- Bachelor of Arts in Philosophy, Santa Clara University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2003
+
+<table style="width:100%">
+  <tr>
+    <td> &bull; Pursuing PhD in Computational Media, UC Santa Cruz</td>
+    <td style="text-align:right">Expected 2020</td>
+  </tr>
+  <tr>
+    <td> &bull; MS in Computational Media, UC Santa Cruz</td>
+    <td style="text-align:right">Expected 2018</td>
+  </tr>
+  <tr>
+    <td>MA in Experimental Psychology, San Jose State University</td>
+    <td style="text-align:right">2013</td>
+  </tr>
+  <tr>
+    <td> &bull; Bachelor of Science in Psychology, Santa Clara University</td>
+    <td style="text-align:right">2003</td>
+  </tr>
+   <tr>
+    <td> &bull; Bachelor of Arts in Philosophy, Santa Clara University</td>
+    <td style="text-align:right">2003</td>
+  </tr>
+</table>
 
 ## Peer Reviewed Publications
 - **Anderson, B.R.**, & Smith, A.M. (under review). Understanding user needs in videogame moment retrieval.
