@@ -3,7 +3,7 @@
 # Curriculum Vitae
 ## Education
 
-<table style="width:100%">
+<table style="width:100%, border: 0px solid black">
   <tr>
     <td> &bull; Pursuing PhD in Computational Media, UC Santa Cruz</td>
     <td style="text-align:right">Expected 2020</td>
