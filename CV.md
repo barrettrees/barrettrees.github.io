@@ -13,7 +13,7 @@
     <td style="text-align:right">Expected 2018</td>
   </tr>
   <tr>
-    <td>MA in Experimental Psychology, San Jose State University</td>
+    <td> &bull; MA in Experimental Psychology, San Jose State University</td>
     <td style="text-align:right">2013</td>
   </tr>
   <tr>
