@@ -1,6 +1,7 @@
 [Projects](index.html) | [About Me](bio.html) | [CV](CV.html) 
 
 # K Street Card Game
+*With [Dylan Lederle-Ensign](http://www.dlederle.com/)*
 
   <div class="project-slideshow">
   
@@ -35,7 +36,7 @@
 
 **Summary:** A deckbuilding cardgame with a political lobbying theme and a bluffing mechanic.
 
-**Process:** The game was created for a playable media course at UCSC in Winter 2015, and was improved over several rounds of criticique and playtesting. We chose a modern political theme in reaction the common science fiction and fantasy themes in the majority of deckbuilding games avaialable at the time. This theme guided us to experiment with a bluffing mechanic, which resulted in more counterplay and player interaction.
+**Process:** The game was created for a playable media course at UCSC in Winter 2015, and was improved over several rounds of criticique and playtesting. We chose a modern political theme in contrest with the common science fiction and fantasy themes in the majority of deckbuilding games avaialable at the time. This theme guided us to experiment with a bluffing mechanic, which resulted in a game with more counterplay and player interaction than others in the genre.
 
 **Technology:** Cards were prototyped with [nanDeck](http://www.nand.it/nandeck/).
 
