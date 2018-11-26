@@ -2,6 +2,8 @@
 
 # Crime Metaphor Game
 
+*With [Chris Karzmark](https://www.researchgate.net/scientific-contributions/2143158450_Christopher_R_Karzmark)*
+
   <div class="project-slideshow">
   
   <div>
