@@ -8,7 +8,7 @@
    <div>
   
    <a href="Analogy.html">
-    <img src="Analogy.png" alt="Search by Analogy" width="300" height="200">
+    <img src="Analogy.png" alt="Search by Analogy" >
     Explaining Search by Analogy
    </a>
   
@@ -17,7 +17,7 @@
   <div>
   
   <a href="CMG.html">
-    <img src="crimegame.png" alt="Crime Metaphor Game" width="300" height="200">
+    <img src="crimegame.png" alt="Crime Metaphor Game" >
     Crime Metaphor Game
   </a>
   
@@ -26,7 +26,7 @@
   <div>
   
   <a href="STEM_VR.html">
-    <img src="STEM_VR.png" alt="STEM VR" width="300" height="200">
+    <img src="STEM_VR.png" alt="STEM VR" >
     STEM VR Office
   </a>
   
@@ -35,7 +35,7 @@
   <div>
   
   <a href="K_Street.html">
-   <img src="kstreet4.png" alt="K Street Card Game" width="300" height="200">
+   <img src="kstreet4.png" alt="K Street Card Game" >
     K Street Card Game
   </a>
   
