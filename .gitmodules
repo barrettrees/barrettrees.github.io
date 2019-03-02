@@ -1,0 +1,3 @@
+[submodule "search_by_analogy_interactive"]
+	path = search_by_analogy_interactive
+	url = https://github.com/barrettrees/search_by_analogy_interactive.git
