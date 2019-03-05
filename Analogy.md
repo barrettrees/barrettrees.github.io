@@ -1,6 +1,6 @@
 [Projects](index.html) | [About Me](bio.html) | [CV](CV.html) 
 
-# Explaining Search by Analogy with Videogmae Moments
+# Explaining Search by Analogy with Videogame Moments
 
   <div class="project-slideshow">
   
