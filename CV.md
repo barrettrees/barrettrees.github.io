@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td> &bull; MS in Computational Media, UC Santa Cruz</td>
-    <td style="text-align:right">Expected 2018</td>
+    <td style="text-align:right">2018</td>
   </tr>
   <tr>
     <td> &bull; MA in Experimental Psychology, San Jose State University</td>
@@ -27,7 +27,8 @@
 </table>
 
 ## Peer Reviewed Publications
-- **Anderson, B.R.**, & Smith, A.M. (under review). Understanding user needs in videogame moment retrieval.
+- **Anderson, B.R.**, & Smith, A.M. (in press). Understanding user needs in videogame moment retrieval.
+- **Anderson, B.R.**, Karzmark, C., & Wardrip-Fruin, N. (in press). The Psychological Reality of Procedural Rhetoric.
 - Davidenko, N., Cheong, Y., Waterman, A., Smith, J., **Anderson, B.**, & Harmon, S. (2018). [The influence of visual and vestibular orientation cues in a clock reading task.](https://www.sciencedirect.com/science/article/pii/S1053810018300448) *Consciousness and Cognition, 64*, 196–206.
 - **Anderson, B. R.**, & Feist, G. J. (2017). [Transformative science: a new index and the impact of non-funding, private funding, and public funding.](https://www.tandfonline.com/doi/abs/10.1080/02691728.2016.1241321) *Social Epistemology, 31(2)*, 130-151.
 - Goodman, S.G., Seymour, T.L., & **Anderson, B.R.** (2016). [Achieving the performance benefits of hands-on experience when using digital devices: A representational approach.](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/9/365/files/2016/05/GoodmanSeymourAnderson2016.pdf) *Computers in Human Behavior, 59,* 58-66.
@@ -106,6 +107,7 @@
 ## Teaching Experience
 
 #### Teaching Assistant: 
+- Foundations of Video Game Design (Winter 2019)
 - Abnormal Psychology (Winter 2018, Spring 2018)
 - Fundamentals of Play (Spring 2017)
 - History of Digital Games (Winter 2017, Fall 2017)
@@ -119,7 +121,7 @@
 - Psychology of Language (Fall 2013, Fall 2014)
 
 #### Tutoring:
-- Mentor for SIP (Science Internship Program) High School Interns (Summers 2015-18) 
+- Mentor for SIP (Science Internship Program) High School Interns (Summers 2015-19) 
 - Statistics Consultant for UCSC CSASS (9/14-6/16)
 - Math and SAT Instructor for Sylvan Learning Center (12/04-5/05)
 - Technology Docent for Burlingame Public Library (9/98-6/00)
