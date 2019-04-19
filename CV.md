@@ -39,9 +39,9 @@
 - Starr, C. R., **Anderson, B.R.**, & Green, K. A. (2018, July). *“I’m a computer scientist!”: Virtual Reality Experience Reduces Stereotype Threat and Increases STEM Motivation Among Undergraduate Women via the Proteus Effect.* Paper presented at the 4th Annual Gender & STEM Network Conference, Eugene, O.R.
 - Starr, C. R., **Anderson, B.R.**, & Green, K.A. (2017).  *Who we are in VR: Virtual reality experience enhances STEM motivation among women.* Invited paper presented at the Media Preconference for the Society for the Study of Emerging Adulthood, Washington, D.C.
  - Starr, C. R., **Anderson, B.R.**, Walsh, A., & Leaper, C. (2017). *“STEM just isn’t for me”: STEM stereotypes, identity, and motivation among a sample of Latina, European, and Asian American undergraduate women.* Presented at the Society for the Study of Emerging Adulthood, Washington D.C
- - Starr, C. R., **Anderson, B.R.**, & Walsh, A. (2017). *Playing video games vs. tweeting friends: The contribution of 4 different types of media on STEM motivation among emerging adults.* Presented at the annual conference of the Jean Piaget Society. San Francisco, CA.
 
 ## Posters
+ - Starr, C. R., **Anderson, B.R.**, & Walsh, A. (2017). *Playing video games vs. tweeting friends: The contribution of 4 different types of media on STEM motivation among emerging adults.* Poster presented at the annual conference of the Jean Piaget Society. San Francisco, CA.
  - Goodman, S., Seymour, T.L., & **Anderson, B.** (2015). *Physical manipulatives provide spatial and arithmetic performance advantages in canonical education activities.*  Presented at 2015 Cognitive Science Society Annual Meeting, Pasadena, CA. July 24, 2015.
  - Van Selst, M., Seropian, G., Prendez, J., **Anderson, B.**, & Kraft, N. (2011).  *Dose-Dependent Cognitive Effects of Alcohol (II).*  Poster Presented at the 91st Annual Convention of the Western Psychological Association, Los Angeles, CA.
  - Van Selst, M., Prendez, J., Seropian, G., **Anderson, B.**, & Kraft, N. (2010).  *Dose-Dependent Effects of Alcohol.*  Poster Presented at the 90th Annual Convention of the Western Psychological Association, Cancun, Mexico. - 
