@@ -28,8 +28,8 @@
 
 ## Peer Reviewed Publications
 - Starr, C. R., **Anderson, B.R.**, & Green, K. A. (in press). Virtual Reality Experience Influences Stereotype Threat and STEM Motivation Among Undergraduate Women. *Journal of Science Education and Technology*
-- **Anderson, B.R.**, & Smith, A.M. (2019). Understanding user needs in videogame moment retrieval. *Presented at the 14th International Conference on the Foundations of Digital Games.*
-- **Anderson, B.R.**, Karzmark, C., & Wardrip-Fruin, N. (2019). The Psychological Reality of Procedural Rhetoric. *Presented at the 14th International Conference on the Foundations of Digital Games.*
+- **Anderson, B.R.**, & Smith, A.M. (2019). Understanding user needs in videogame moment retrieval. *To be presented at the 14th International Conference on the Foundations of Digital Games.*
+- **Anderson, B.R.**, Karzmark, C., & Wardrip-Fruin, N. (2019). The Psychological Reality of Procedural Rhetoric. *To be presented at the 14th International Conference on the Foundations of Digital Games.*
 - Davidenko, N., Cheong, Y., Waterman, A., Smith, J., **Anderson, B.**, & Harmon, S. (2018). [The influence of visual and vestibular orientation cues in a clock reading task.](https://www.sciencedirect.com/science/article/pii/S1053810018300448) *Consciousness and Cognition, 64*, 196–206.
 - **Anderson, B. R.**, & Feist, G. J. (2017). [Transformative science: a new index and the impact of non-funding, private funding, and public funding.](https://www.tandfonline.com/doi/abs/10.1080/02691728.2016.1241321) *Social Epistemology, 31(2)*, 130-151.
 - Goodman, S.G., Seymour, T.L., & **Anderson, B.R.** (2016). [Achieving the performance benefits of hands-on experience when using digital devices: A representational approach.](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/9/365/files/2016/05/GoodmanSeymourAnderson2016.pdf) *Computers in Human Behavior, 59,* 58-66.
