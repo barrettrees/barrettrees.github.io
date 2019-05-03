@@ -27,7 +27,7 @@
 </table>
 
 ## Peer Reviewed Publications
-- Starr, C. R., **Anderson, B.R.**, & Green, K. A. (in press). Virtual Reality Experience Influences Stereotype Threat and STEM Motivation Among Undergraduate Women. *Journal of Science Education and Technology*
+- Starr, C. R., **Anderson, B.R.**, & Green, K. A. (in press). Virtual Reality Experience Influences Stereotype Threat and STEM Motivation Among Undergraduate Women. *Journal of Science Education and Technology* doi:10.1007/s10956-019-09781-z
 - **Anderson, B.R.**, & Smith, A.M. (2019). Understanding user needs in videogame moment retrieval. *To be presented at the 14th International Conference on the Foundations of Digital Games.*
 - **Anderson, B.R.**, Karzmark, C., & Wardrip-Fruin, N. (2019). The Psychological Reality of Procedural Rhetoric. *To be presented at the 14th International Conference on the Foundations of Digital Games.*
 - Davidenko, N., Cheong, Y., Waterman, A., Smith, J., **Anderson, B.**, & Harmon, S. (2018). [The influence of visual and vestibular orientation cues in a clock reading task.](https://www.sciencedirect.com/science/article/pii/S1053810018300448) *Consciousness and Cognition, 64*, 196–206.
