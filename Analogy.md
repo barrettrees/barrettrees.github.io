@@ -28,9 +28,9 @@ Given promising initial results, we decided to develop a tool to facilitate furt
 
 **Technology:** This project was prototyped in Python and then ported to Javascript for public consumption.
 
-**Outcomes:** The explainer will be available online. A test version is [here.](http://barrettrees.com/search_by_analogy_interactive/IntroductionToSearchByAnalogy.html)
+**Outcomes:** The explainer is available [here.](http://barrettrees.com/search_by_analogy_interactive/IntroductionToSearchByAnalogy.html)
 
-There is a slightly older version of the widget [here.](http://barrettrees.com/analogy_javascript_test.html)
+There is a slightly older version of the interactive widget [here.](http://barrettrees.com/analogy_javascript_test.html)
 
 </div>
 
