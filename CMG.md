@@ -36,9 +36,7 @@ improved by the process of critique and pilot testing, and ultimately evaluated 
 **Technology:** The game was built in [Python](https://www.python.org/), using [Pygame](https://www.pygame.org) and assets from the [Noun Project](https://thenounproject.com/) 
 and [Freesound](https://freesound.org/). Survey data was collected with [Google Forms](https://docs.google.com/forms) and analyzed using [Python](https://www.python.org/), [R](https://www.r-project.org/), and [SPSS](https://www.ibm.com/analytics/spss-statistics-software).
 
-**Outcomes:** Participants who played the game identified it as rhetorical, and were able to identify some specific arguments they felt the game was making. 
-Consistent with other persuasive games, participants did not report any shift in their behavior or values. A follow-up experiment
-testing the effectiveness of several variations of this game is currently underway, and amanuscript describing this study is in preparation. 
+**Outcomes:** Participants who played the game identified it as rhetorical, and were able to identify some specific arguments they felt the game was making. Consistent with other persuasive games, participants did not report any shift in their behavior or values. The results of the initial study are available [here.](https://barrettrees.com/papers/Anderson%20Karzmark%20Wardrip-Fruin%202019%20The%20Psychological%20Reality%20of%20Procedural%20Rhetoric.pdf) A follow-up experiment tested the effectiveness of several variations of this game, and a manuscript describing this study is in preparation.
 
 </div>
 
