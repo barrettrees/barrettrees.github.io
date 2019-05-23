@@ -26,7 +26,7 @@
 Existing work exploring vector analogies in text inspired us to explore the potential of this kind of work for our video game moments. 
 Given promising initial results, we decided to develop a tool to facilitate further search, and to test the concept in several other domains. 
 
-**Technology:** This project was prototyped in Python and then ported to Javascript for public consumption.
+**Technology:** This project was prototyped in [Python](https://www.python.org/) and then ported to [Javascript](https://www.javascript.com/) for public consumption.
 
 **Outcomes:** The explainer is available [here.](http://barrettrees.com/search_by_analogy_interactive/IntroductionToSearchByAnalogy.html)
 
