@@ -33,7 +33,7 @@
 
 **Technology:** The virtual environment was created in [Unity](https://unity3d.com/) and presented with an [HTC Vive](https://www.vive.com) virtual reality headset. Surveys were presented via [psychsurveys.org](https://www.psychsurveys.org/) and analyzed using [R](https://www.r-project.org/) and [SPSS](https://www.ibm.com/analytics/spss-statistics-software).
 
-**Outcomes:** Participants who imagined a successful futuer self in the VR STEM environment reported greater feelings of belong and confidence in STEM fields. This work resulted in presentations at the Media Preconference for the 8th Confererence of the Society for the Study of Emerging Adulthood in Washington, D.C. and the 4th Annual Gender & STEM Network Conference, in Eugene, O.R. A manuscript describing this work is currently under review.
+**Outcomes:** Participants who imagined a successful futuer self in the VR STEM environment reported greater feelings of belong and confidence in STEM fields. This work resulted in presentations at the Media Preconference for the 8th Confererence of the Society for the Study of Emerging Adulthood in Washington, D.C. and the 4th Annual Gender & STEM Network Conference, in Eugene, O.R, and a [publication](https://barrettrees.com/papers/Starr%20Anderson%20Green%202019%20Virtual%20Reality%20Experience%20Influences%20Stereotype%20Threat%20and%20STEM%20Motivation%20Among%20Undergraduate%20Women.pdf) in the Journal of Science Education and Technology.
 
 </div>
 
