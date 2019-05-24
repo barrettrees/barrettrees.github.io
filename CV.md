@@ -64,10 +64,10 @@
 
 ## Professional Experience
 
-#### Teaching Assistant, UC Santa Cruz (2013-2018)
+#### Teaching Assistant, UC Santa Cruz (2013-2019)
  - Teaching support for courses in psychology, philosophy, and games and playable media.
 
-#### Mentor, UC Santa Cruz Science Internship Program (2015-2018) 
+#### Mentor, UC Santa Cruz Science Internship Program (2015-2019) 
  - Provided mentorship and research experience for high school student interns
  - Student work resulted in presentations and papers submitted for publication
 
