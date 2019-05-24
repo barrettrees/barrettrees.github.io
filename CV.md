@@ -102,7 +102,7 @@
 #### Statistics Consultant, UC Santa Cruz Center for Statisticis in the Social Sciences (2014-2016)
  - Provided statistics consulting and tutoring services to UCSC graduate and undergraduate students.
 
-#### Technology Docent, Burligame Public Library (1998-2000)
+#### Technology Docent, Burlingame Public Library (1998-2000)
 - Wrote technology protocols for library staff and taught patrons (primarily seniors) basic computer skills including use of web browsers. 
 
 ## Teaching Experience
