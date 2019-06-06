@@ -18,7 +18,6 @@
   </tr>
   <tr>
     <td> &bull; Bachelor of Science in Psychology, Santa Clara University</td>
-    <td style="text-align:right">2003</td>
   </tr>
    <tr>
     <td> &bull; Bachelor of Arts in Philosophy, Santa Clara University</td>
@@ -99,7 +98,7 @@
 
 ## Volunteer Experience
 
-#### Statistics Consultant, UC Santa Cruz Center for Statisticis in the Social Sciences (2014-2016)
+#### Statistics Consultant, UC Santa Cruz Center for Statistics in the Social Sciences (2014-2016)
  - Provided statistics consulting and tutoring services to UCSC graduate and undergraduate students.
 
 #### Technology Docent, Burlingame Public Library (1998-2000)
