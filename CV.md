@@ -18,6 +18,7 @@
   </tr>
   <tr>
     <td> &bull; Bachelor of Science in Psychology, Santa Clara University</td>
+    <td style="text-align:right">2003</td>
   </tr>
    <tr>
     <td> &bull; Bachelor of Arts in Philosophy, Santa Clara University</td>
