@@ -4,7 +4,7 @@
 
 <img align = "left" src="basketch_small.png" style="float: left; padding: 13px 13px 13px 13px;" width="40%">
 
-Hi! I'm a graduate student in [Adam Smith's Design Research Lab](https://adamsmith.as/). People in our lab explore applications of AI to the creation and study of games (among other things). My research involves experimenting with how to search for content within and across games, exploring the psychological reality of procedural rhetoric, examining possible benefits of experiences in virtual environments, and developing a better understanding the history and potential of explorable explanations. 
+Hi! I'm a PhD student in [Adam Smith's Design Reasoning Lab](https://designreasoning.soe.ucsc.edu/). People in our lab explore applications of AI to the creation and study of games. My research involves experimenting with how to search for content within and across games, which has applications for games studies, for information retrieval, and for teaching students how to create and interpret interactive experiences. Other recent work has explored the psychological reality of procedural rhetoric, examined the influence of experiences in virtual environments, investigated the benefits of hands-on vs digital experiences. Before I was a member of DRL, I was part of the [UCSC Cognitive Modeling Lab](https://cogmodlab.ucsc.edu/), the [NASA Distributed Team Decision Making Team](https://www.nasa.gov/centers/ames/research/technology-onepagers/distributed-team-decision.html), and the [Stanford Psychophysiology Lab](https://spl.stanford.edu/).
 
 *Caricature by [Talia Waltzer](https://sites.google.com/site/taliawaltzer/)*
 
