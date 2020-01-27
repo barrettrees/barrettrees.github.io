@@ -66,7 +66,7 @@
 
 ## Professional Experience
 
-#### Teaching Assistant, UC Santa Cruz (2013-2019)
+#### Teaching Assistant, UC Santa Cruz (2013-2020)
  - Teaching support for courses in psychology, philosophy, and games and playable media.
 
 #### Mentor, UC Santa Cruz Science Internship Program (2015-2019) 
@@ -110,9 +110,9 @@
 ## Teaching Experience
 
 #### Teaching Assistant: 
-- Foundations of Video Game Design (Winter 2019)
+- Foundations of Video Game Design (Winter 2019, Winter 2020)
 - Abnormal Psychology (Winter 2018, Spring 2018)
-- Fundamentals of Play (Spring 2017)
+- Fundamentals of Play (Spring 2017, Fall 2019)
 - History of Digital Games (Winter 2017, Fall 2017)
 - Psychology of Religion (Fall 2016)
 - Learning and Memory (Summer 2016)
