@@ -27,12 +27,12 @@
 </table>
 
 ## Peer Reviewed Publications
-###Conference Papers
+### Conference Papers
 - **Anderson, B.R.**, Karzmark, C., & Wardrip-Fruin, N. (2020). [We Don’t Play As We Think, But We Think As We Play: Evidence for the Psychological Impact of In-game Actions.](https://barrettrees.com/papers/Anderson%20Karzmark%20Wardrip-Fruin%202020%20We%20Dont%20Play%20As%20We%20Think%20But%20We%20Think%20As%20We%20Play.pdf) *To be presented at the 15th International Conference on the Foundations of Digital Games.*, Malta. 
 - Osborn, J., Dickinson, M., **Anderson, B. R.**, Summerville, A., Denner, J., Torres, D., Wardrip-Fruin, N., & Mateas, M. (2019). [Is Your Game Generator Working? Evaluating Gemini, a Purposeful Generator.](https://www.aaai.org%2Fojs%2Findex.php%2FAIIDE%2Farticle%2Fdownload%2F5225%2F5081%2F&usg=AOvVaw25ufbW-kwelf1zKhSLHmOT) *Presented at the 15th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE’19)*, Atlanta, GA.
 - **Anderson, B.R.**, & Smith, A.M. (2019). [Understanding User Needs in Videogame Moment Retrieval.](https://barrettrees.com/papers/Anderson%20Smith%202019%20Understanding%20User%20Needs%20in%20Videogame%20Moment%20Retrieval.pdf) *Presented at the 14th International Conference on the Foundations of Digital Games.*, San Luis Obispo, CA.
 - **Anderson, B.R.**, Karzmark, C., & Wardrip-Fruin, N. (2019). [The Psychological Reality of Procedural Rhetoric.](https://barrettrees.com/papers/Anderson%20Karzmark%20Wardrip-Fruin%202019%20The%20Psychological%20Reality%20of%20Procedural%20Rhetoric.pdf) *Presented at the 14th International Conference on the Foundations of Digital Games.*, San Luis Obispo, CA.
-###Journal Articles
+### Journal Articles
 - Starr, C. R., **Anderson, B.R.**, & Green, K. A. (2019). [“I’m a Computer Scientist!”: Virtual Reality Experience Influences Stereotype Threat and STEM Motivation Among Undergraduate Women.](https://barrettrees.com/papers/Starr%20Anderson%20Green%202019%20Virtual%20Reality%20Experience%20Influences%20Stereotype%20Threat%20and%20STEM%20Motivation%20Among%20Undergraduate%20Women.pdf) *Journal of Science Education and Technology*, [https://doi.org/10.1007/s10956-019-09781-z](https://doi.org/10.1007/s10956-019-09781-z)
 - Davidenko, N., Cheong, Y., Waterman, A., Smith, J., **Anderson, B.**, & Harmon, S. (2018). [The influence of visual and vestibular orientation cues in a clock reading task.](https://www.sciencedirect.com/science/article/pii/S1053810018300448) *Consciousness and Cognition, 64*, 196–206.
 - **Anderson, B. R.**, & Feist, G. J. (2017). [Transformative science: a new index and the impact of non-funding, private funding, and public funding.](https://www.tandfonline.com/doi/abs/10.1080/02691728.2016.1241321) *Social Epistemology, 31(2)*, 130-151.
