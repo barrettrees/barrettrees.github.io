@@ -111,11 +111,13 @@
 
 ## Teaching Experience
 
-#### Teaching Assistant: 
+#### Teaching Assistant:
+##### Games:
 - Foundations of Video Game Design (Winter 2019, Summer 2019, Winter 2020)
-- Abnormal Psychology (Winter 2018, Spring 2018)
 - Fundamentals of Play (Spring 2017, Fall 2019)
-- History of Digital Games (Winter 2017, Fall 2017)
+- History of Digital Games (Winter 2017, Fall 2017, Fall 2020)
+##### Psychology:
+- Abnormal Psychology (Winter 2018, Spring 2018)
 - Psychology of Religion (Fall 2016)
 - Learning and Memory (Summer 2016)
 - Research Methods in Psychology (Summer 2014, Winter 2015, Fall 2015, Spring 2016)
