@@ -5,8 +5,8 @@
 
 <table id="edtable" style="width:100%, border: 0px solid black">
   <tr>
-    <td> &bull; Pursuing PhD in Computational Media, UC Santa Cruz</td>
-    <td style="text-align:right">Expected 2020</td>
+    <td> &bull; PhD in Computational Media, UC Santa Cruz</td>
+    <td style="text-align:right">2020</td>
   </tr>
   <tr>
     <td> &bull; MS in Computational Media, UC Santa Cruz</td>
@@ -29,6 +29,7 @@
 ## Peer Reviewed Publications
 
 ### Conference Papers
+- **Anderson, B.R.**, & Smith, A.M. (2021). The Undergraduate Games Corpus: A Dataset for Machine Perception of Interactive Media *To be presented at the 35th AAAI Conference on Artificial Intelligence.*
 - **Anderson, B.R.**, Karzmark, C., & Wardrip-Fruin, N. (2020). [We Don’t Play As We Think, But We Think As We Play: Evidence for the Psychological Impact of In-game Actions.](https://barrettrees.com/papers/Anderson%20Karzmark%20Wardrip-Fruin%202020%20We%20Dont%20Play%20As%20We%20Think%20But%20We%20Think%20As%20We%20Play.pdf) *Presented at the 15th International Conference on the Foundations of Digital Games*, Bugibba, Malta. (**Exceptional Paper**)
 - Osborn, J., Dickinson, M., **Anderson, B. R.**, Summerville, A., Denner, J., Torres, D., Wardrip-Fruin, N., & Mateas, M. (2019). [Is Your Game Generator Working? Evaluating Gemini, a Purposeful Generator.](https://www.aaai.org%2Fojs%2Findex.php%2FAIIDE%2Farticle%2Fdownload%2F5225%2F5081%2F&usg=AOvVaw25ufbW-kwelf1zKhSLHmOT) *Presented at the 15th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE’19)*, Atlanta, GA.
 - **Anderson, B.R.**, & Smith, A.M. (2019). [Understanding User Needs in Videogame Moment Retrieval.](https://barrettrees.com/papers/Anderson%20Smith%202019%20Understanding%20User%20Needs%20in%20Videogame%20Moment%20Retrieval.pdf) *Presented at the 14th International Conference on the Foundations of Digital Games.*, San Luis Obispo, CA.
