@@ -68,6 +68,7 @@
 
 ## Awards
  - 2013 Recipient of a NASA Group Achievement Award for Controller Alertness and Fatigue Monitoring Study
+ - 2013 Regent’s Fellowship, UC Santa Cruz
 
 ## Professional Experience
 
