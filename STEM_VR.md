@@ -1,4 +1,4 @@
-[Projects](index.html) | [About Me](bio.html) | [CV](CV.html) 
+[About Me](index.html) | [Projects](projects.html) | [CV](CV.html) 
 
 # STEM VR Office 
 *With [Christy Starr](https://www.researchgate.net/profile/Christine_Starr) and [Katie Green](http://www.katieagreen.com/)*
