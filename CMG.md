@@ -1,4 +1,4 @@
-[Projects](index.html) | [About Me](bio.html) | [CV](CV.html) 
+[About Me](index.html) | [Projects](projects.html) | [CV](CV.html) 
 
 # Crime Metaphor Game
 
