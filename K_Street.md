@@ -1,4 +1,4 @@
-[Projects](index.html) | [About Me](bio.html) | [CV](CV.html) 
+[About Me](index.html) | [Projects](projects.html) | [CV](CV.html) 
 
 # K Street Card Game
 *With [Dylan Lederle-Ensign](http://www.dlederle.com/)*
