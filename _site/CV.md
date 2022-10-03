@@ -1,6 +1,6 @@
 [Projects](index.html) | [About Me](bio.html) | [Contact](contact.html) | [CV](CV.html) 
 
-# Curriculum Vitae
+# Curriculum Vitae <br><sup>([resume format](https://github.com/barrettrees/barrettrees.github.io/blob/c058d5060a46fa99735bd5a845d3c80a76578591/Barrett%20Rees%20Anderson%20-%20Resume%209-1-2022_2page_UX-1.pdf))</sup>
 ## Education
 - Pursuing PhD in Computational Media, UC Santa Cruz	| Expected 2020
 - MS in Computational Media, UC Santa Cruz	    | Expected 2018
