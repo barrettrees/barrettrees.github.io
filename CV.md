@@ -1,6 +1,6 @@
 [About Me](index.html) | [Projects](projects.html) | [CV](CV.html) 
 
-# Curriculum Vitae
+# Curriculum Vitae ([resume format here]([Barrett Rees Anderson - Resume 9-1-2022_2page_UX-1.pdf](https://github.com/barrettrees/barrettrees.github.io/blob/c058d5060a46fa99735bd5a845d3c80a76578591/Barrett%20Rees%20Anderson%20-%20Resume%209-1-2022_2page_UX-1.pdf)))
 ## Education
 
 <table id="edtable" style="width:100%, border: 0px solid black">
