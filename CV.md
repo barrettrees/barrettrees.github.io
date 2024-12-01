@@ -1,6 +1,6 @@
 [About Me](index.html) | [Projects](projects.html) | [CV](CV.html) 
 
-# Curriculum Vitae <br><sup>([resume format](https://github.com/barrettrees/barrettrees.github.io/blob/c058d5060a46fa99735bd5a845d3c80a76578591/Barrett%20Rees%20Anderson%20-%20Resume%209-1-2022_2page_UX-1.pdf))</sup>
+# Curriculum Vitae 
 ## Education
 
 <table id="edtable" style="width:100%, border: 0px solid black">
@@ -29,14 +29,16 @@
 ## Peer Reviewed Publications
 
 ### Conference Papers
-- **Anderson, B.R.**, & Smith, A.M. (2021). [The Undergraduate Games Corpus: A Dataset for Machine Perception of Interactive Media.](https://barrettrees.com/papers/AAAI_2021_The_Undergraduate_Games_Corpus.pdf) *Presented at the 35th AAAI Conference on Artificial Intelligence.*
-- **Anderson, B.R.**, Karzmark, C., & Wardrip-Fruin, N. (2020). [We Don’t Play As We Think, But We Think As We Play: Evidence for the Psychological Impact of In-game Actions.](https://barrettrees.com/papers/Anderson%20Karzmark%20Wardrip-Fruin%202020%20We%20Dont%20Play%20As%20We%20Think%20But%20We%20Think%20As%20We%20Play.pdf) *Presented at the 15th International Conference on the Foundations of Digital Games*, Bugibba, Malta. (**Exceptional Paper**)
-- Osborn, J., Dickinson, M., **Anderson, B. R.**, Summerville, A., Denner, J., Torres, D., Wardrip-Fruin, N., & Mateas, M. (2019). [Is Your Game Generator Working? Evaluating Gemini, a Purposeful Generator.](https://www.aaai.org%2Fojs%2Findex.php%2FAIIDE%2Farticle%2Fdownload%2F5225%2F5081%2F&usg=AOvVaw25ufbW-kwelf1zKhSLHmOT) *Presented at the 15th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE’19)*, Atlanta, GA.
-- **Anderson, B.R.**, & Smith, A.M. (2019). [Understanding User Needs in Videogame Moment Retrieval.](https://barrettrees.com/papers/Anderson%20Smith%202019%20Understanding%20User%20Needs%20in%20Videogame%20Moment%20Retrieval.pdf) *Presented at the 14th International Conference on the Foundations of Digital Games.*, San Luis Obispo, CA.
-- **Anderson, B.R.**, Karzmark, C., & Wardrip-Fruin, N. (2019). [The Psychological Reality of Procedural Rhetoric.](https://barrettrees.com/papers/Anderson%20Karzmark%20Wardrip-Fruin%202019%20The%20Psychological%20Reality%20of%20Procedural%20Rhetoric.pdf) *Presented at the 14th International Conference on the Foundations of Digital Games.*, San Luis Obispo, CA.
+- **Anderson, B.R.**, Shah, J.H., Kreminski, M. (2024). [Homogenization Effects of Large Language Models on Human Creative Ideation.](https://barrettrees.com/papers/Homogenization_C&C2024.pdf) *Presented at the 16th ACM Conference on Creativity & Cognition. (C&C-24).* (**Best Paper**)
+- **Anderson, B.R.**, Shah, J.H., Kreminski, M. (2024). [Evaluating Creativity Support Tools via Homogenization Analysis.](https://barrettrees.com/papers/Homogenization_CHI2024.pdf) *Presented at the ACM CHI conference on Human Factors in Computing Systems. (CHI-24)*
+- **Anderson, B.R.**, & Smith, A.M. (2021). [The Undergraduate Games Corpus: A Dataset for Machine Perception of Interactive Media.](https://barrettrees.com/papers/AAAI_2021_The_Undergraduate_Games_Corpus.pdf) *Presented at the 35th AAAI Conference on Artificial Intelligence. (AAAI-21)*
+- **Anderson, B.R.**, Karzmark, C., & Wardrip-Fruin, N. (2020). [We Don’t Play As We Think, But We Think As We Play: Evidence for the Psychological Impact of In-game Actions.](https://barrettrees.com/papers/Anderson%20Karzmark%20Wardrip-Fruin%202020%20We%20Dont%20Play%20As%20We%20Think%20But%20We%20Think%20As%20We%20Play.pdf) *Presented at the 15th International Conference on the Foundations of Digital Games. (FDG-20)*, Bugibba, Malta. (**Exceptional Paper**)
+- Osborn, J., Dickinson, M., **Anderson, B. R.**, Summerville, A., Denner, J., Torres, D., Wardrip-Fruin, N., & Mateas, M. (2019). [Is Your Game Generator Working? Evaluating Gemini, a Purposeful Generator.](https://www.aaai.org%2Fojs%2Findex.php%2FAIIDE%2Farticle%2Fdownload%2F5225%2F5081%2F&usg=AOvVaw25ufbW-kwelf1zKhSLHmOT) *Presented at the 15th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE-19)*, Atlanta, GA.
+- **Anderson, B.R.**, & Smith, A.M. (2019). [Understanding User Needs in Videogame Moment Retrieval.](https://barrettrees.com/papers/Anderson%20Smith%202019%20Understanding%20User%20Needs%20in%20Videogame%20Moment%20Retrieval.pdf) *Presented at the 14th International Conference on the Foundations of Digital Games. (FDG-19)*, San Luis Obispo, CA.
+- **Anderson, B.R.**, Karzmark, C., & Wardrip-Fruin, N. (2019). [The Psychological Reality of Procedural Rhetoric.](https://barrettrees.com/papers/Anderson%20Karzmark%20Wardrip-Fruin%202019%20The%20Psychological%20Reality%20of%20Procedural%20Rhetoric.pdf) *Presented at the 14th International Conference on the Foundations of Digital Games. (FDG-19)*, San Luis Obispo, CA.
 
 ### Journal Articles
-- Starr, C. R., **Anderson, B.R.**, & Green, K. A. (2019). [“I’m a Computer Scientist!”: Virtual Reality Experience Influences Stereotype Threat and STEM Motivation Among Undergraduate Women.](https://barrettrees.com/papers/Starr%20Anderson%20Green%202019%20Virtual%20Reality%20Experience%20Influences%20Stereotype%20Threat%20and%20STEM%20Motivation%20Among%20Undergraduate%20Women.pdf) *Journal of Science Education and Technology*, *28*, 493–507 [https://doi.org/10.1007/s10956-019-09781-z](https://doi.org/10.1007/s10956-019-09781-z)
+- Starr, C. R., **Anderson, B.R.**, & Green, K. A. (2019). [“I’m a Computer Scientist!”: Virtual Reality Experience Influences Stereotype Threat and STEM Motivation Among Undergraduate Women.](https://barrettrees.com/papers/Starr%20Anderson%20Green%202019%20Virtual%20Reality%20Experience%20Influences%20Stereotype%20Threat%20and%20STEM%20Motivation%20Among%20Undergraduate%20Women.pdf) *Journal of Science Education and Technology*, *28*, 493–507. 
 - Davidenko, N., Cheong, Y., Waterman, A., Smith, J., **Anderson, B.**, & Harmon, S. (2018). [The influence of visual and vestibular orientation cues in a clock reading task.](https://www.sciencedirect.com/science/article/pii/S1053810018300448) *Consciousness and Cognition, 64*, 196–206.
 - **Anderson, B. R.**, & Feist, G. J. (2017). [Transformative science: a new index and the impact of non-funding, private funding, and public funding.](https://www.tandfonline.com/doi/abs/10.1080/02691728.2016.1241321) *Social Epistemology, 31(2)*, 130-151.
 - Goodman, S.G., Seymour, T.L., & **Anderson, B.R.** (2016). [Achieving the performance benefits of hands-on experience when using digital devices: A representational approach.](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/9/365/files/2016/05/GoodmanSeymourAnderson2016.pdf) *Computers in Human Behavior, 59,* 58-66.
@@ -67,10 +69,23 @@
  - Orasanu, J., Welch, R. B., Kraft, N., Cowings, P., Toscano, W., McDonnell, L., Derochers, C.,**Anderson, B.**, Miller, R. C., Marshall, S., Davis, C., Weatherhead, J. (2008, Feb). *Self-test tools for assessing astronaut readiness to perform.*  Annual Investigators’ Meeting of the NASA Human Research Program, League City, TX. (Partial data presented by S. Marshall at the SHFE Eye Movement Workshop, NASA Ames, April 24-25, 2008.
 
 ## Awards
+ - 2024 Best Paper for *Homogenization Effects of Large Language Models on Human Creative Ideation* at ACM Creativity & Cognition Conference
+ - 2020 Exceptional Paper for *We Don’t Play As We Think, But We Think As We Play: Evidence for the Psychological Impact of In-Game Actions* at Foundations of Digital Games Conference 
  - 2013 Recipient of a NASA Group Achievement Award for Controller Alertness and Fatigue Monitoring Study
  - 2013 Regent’s Fellowship, UC Santa Cruz
 
 ## Professional Experience
+
+#### UX Researcher, Reality Labs (2023-Present)
+ - Qualitative and quantitative UX research evaluating human perception of mixed reality (AR/VR/XR).
+
+#### UX Reseearcher, Google (2021-2023)
+ - Qualitative and quantitative UX research projects for mixed reality (AR/VR) experiences, including spinning up a rapid research program and dashboarding for team alignment on KPIs and user journeys.
+ - Created interactive dashboards and automated workflows for video quality and playability research.
+ - Launched a program to continuously visualize the state of critical user journeys across platforms.
+
+#### Lectuter, CSU Monterey Bay (2023)
+- Guided advanced undergraduate students through user experience research and design projects, taught UX standards for field research, analysis, and rapid prototyping.
 
 #### Teaching Assistant, UC Santa Cruz (2013-2020)
  - Teaching support for courses in psychology, philosophy, and games and playable media.
@@ -98,7 +113,7 @@
 - Affective Chronometry, Autobiographical Memory and Social Anxiety, Emotional Suppression and Reappraisal   
 
 #### Founder, Padholsters (2003)
-- Designed and sold holsters for the Nintendo Gameboy SP portable videogame system.
+- Designed and sold holsters for the Nintendo Gameboy SP portable videogame system and wireless game controllers.
 
 #### Electroencephalography Research Assistant, Santa Clara University Sleep Lab (2002-2003)
  - Assisted in the creation of Santa Clara University’s first sleep lab.  
@@ -114,9 +129,11 @@
 - Wrote technology protocols for library staff and taught patrons (primarily seniors) basic computer skills including use of web browsers. 
 
 ## Teaching Experience
-
+#### Instructor
+- User Experience Design & Research (Fall 2023)
+#### Guest Lecture
+- History of Educational Games (Fall 2020)
 #### Teaching Assistant:
-
 ##### Games Courses
 - Foundations of Video Game Design (Winter 2019, Summer 2019, Winter 2020)
 - Fundamentals of Play (Spring 2017, Fall 2019)
