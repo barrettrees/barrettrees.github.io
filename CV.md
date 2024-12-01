@@ -129,17 +129,17 @@
 - Wrote technology protocols for library staff and taught patrons (primarily seniors) basic computer skills including use of web browsers. 
 
 ## Teaching Experience
-#### Instructor
+### Instructor
 - User Experience Design & Research (Fall 2023)
-#### Guest Lecture
+### Guest Lecturer
 - History of Educational Games (Fall 2020)
-#### Teaching Assistant:
-##### Games Courses
+### Teaching Assistant
+#### Games Courses
 - Foundations of Video Game Design (Winter 2019, Summer 2019, Winter 2020)
 - Fundamentals of Play (Spring 2017, Fall 2019)
 - History of Digital Games (Winter 2017, Fall 2017, Fall 2020)
 
-##### Psychology Courses
+#### Psychology Courses
 - Abnormal Psychology (Winter 2018, Spring 2018)
 - Psychology of Religion (Fall 2016)
 - Learning and Memory (Summer 2016)
@@ -150,7 +150,7 @@
 - Psychology and Law (Winter 2014)
 - Psychology of Language (Fall 2013, Fall 2014)
 
-#### Tutoring:
+### Tutoring
 - Mentor for SIP (Science Internship Program) High School Interns (Summers 2015-19) 
 - Statistics Consultant for UCSC CSASS (9/14-6/16)
 - Math and SAT Instructor for Sylvan Learning Center (12/04-5/05)
